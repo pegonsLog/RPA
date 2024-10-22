@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2024-01-13|Dr. Gilberto|Ginecologista obstetra|Maternidade|57|Ana Vitória Duarte|1964-10-17|Espírito Santo|Feminino|2023-12-16|2023-12-19|3|Fundamental|3675.75|3.0|Artes|Não|Viúvo(a)
+2024-01-13|Dr. Ramos|Ortopedista|Comum|302|Brenda Cavalcanti|1961-02-13|Goiás|Feminino|2023-12-15|2023-12-21|6|Fundamental|5509.67|3.0|Música|Não|Casado(a)
+2024-01-13|Dr. Ricardo|Traumatologista|Enfermidade de filhos pequenos|61|Sophia Nunes|2003-05-24|Santa Catarina|Feminino|2023-12-17|2023-12-26|9|Fundamental|3834.88|1.0|Leitura|Não|Solteiro(a)

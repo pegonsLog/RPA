@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-06-07|Dr. Eduardo|Ortopedista|Acidente de trajeto|485|Nathan Fernandes|1977-09-01|Espírito Santo|Masculino|2022-06-04|2022-06-06|2|Médio|7528.27|2.0|Artes|Não|Casado(a)
+2022-06-07|Dr. André|Traumatologista|Enfermidade de filhos pequenos|866|Emanuella Aragão|2002-12-06|Espírito Santo|Feminino|2022-05-24|2022-05-29|5|Superior|6994.89|4.0|Viagens|Sim|Solteiro(a)

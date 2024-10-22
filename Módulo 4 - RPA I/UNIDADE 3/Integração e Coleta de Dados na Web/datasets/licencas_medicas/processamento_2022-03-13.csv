@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-03-13|Dr. Pedro|Clínico geral|Acidente de trajeto|820|Sophie da Luz|1953-08-13|Minas Gerais|Feminino|2022-02-18|2022-03-08|18|Superior|9220.0|1.0|Esportes|Não|Solteiro(a)
+2022-03-13|Dr. Pedro|Clínico geral|Comum|857|Nina Cardoso|2000-09-01|Piauí|Feminino|2022-02-16|2022-02-22|6|Superior|8109.28|4.0|Música|Não|Solteiro(a)
+2022-03-13|Dr. Felipe|Ortopedista|Acidente de trabalho|70|Gabriel Monteiro|1967-04-08|Minas Gerais|Masculino|2022-02-15|2022-03-01|14|Médio|1566.21|1.0|Viagens|Sim|Divorciado(a)

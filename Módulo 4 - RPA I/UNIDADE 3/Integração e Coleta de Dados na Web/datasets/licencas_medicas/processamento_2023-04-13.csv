@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-04-13|Dr. Irineu|Ginecologista obstetra|Comum|482|Maria Fernanda Silva|1978-05-04|Rondônia|Feminino|2023-03-19|2023-04-16|28|Médio||2.0|Viagens|Não|Divorciado(a)
+2023-04-13|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|595|Luiz Miguel Cunha|1982-03-12|Ceará|Masculino|2023-03-14|2023-03-20|6|Médio|5342.72|4.0|Viagens|Sim|Solteiro(a)
+2023-04-13|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|595|Luiz Miguel Cunha|1982-03-12|Ceará|Masculino|2023-03-14|2023-03-20|6|Médio|5342.72|4.0|Viagens|Sim|Solteiro(a)

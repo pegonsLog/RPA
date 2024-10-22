@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-26|Dr. Pedro|Clínico geral|Acidente de trabalho|2|Sophie Aragão|1970-03-27|Rio Grande do Sul|Feminino|2022-10-22|2022-10-27|5|Fundamental|3966.24|2.0|Música|Sim|Solteiro(a)
+2022-10-26|Dr. Gustavo|Clínico geral|Comum|871|Isaac Rezende|1982-11-24|Ceará|Masculino|2022-09-27|2022-10-10|13|Médio|9356.3|0.0|Viagens|Não|Solteiro(a)
+2022-10-26|Dr. Lessa|Pediatra|Comum|467|Lara Campos|2002-07-15|São Paulo|Feminino|2022-10-23|2022-10-31|8|Fundamental|5594.32|0.0|Música|Não|Solteiro(a)

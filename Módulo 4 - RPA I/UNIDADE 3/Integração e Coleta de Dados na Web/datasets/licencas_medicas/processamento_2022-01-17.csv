@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-01-17|Dr. Pedro|Clínico geral|Acidente de trajeto|538|Ana Vitória Dias|2003-01-02|Maranhão|Feminino|2022-01-03|2022-01-31|28|Superior|2754.86|0.0|Artes|Sim|Divorciado(a)

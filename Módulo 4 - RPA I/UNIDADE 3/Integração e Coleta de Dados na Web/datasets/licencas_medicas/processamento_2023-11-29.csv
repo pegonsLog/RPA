@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-11-29|Dra. Juliana|Ginecologista obstetra|Maternidade|326|Sofia Cardoso|1979-05-20|Mato Grosso do Sul|Feminino|2023-11-07|2023-11-23|16|Fundamental|1445.23|4.0|Esportes|Não|Casado(a)
+2023-11-29|Dr. Gilberto|Ginecologista obstetra|Maternidade|631|Ana Laura da Mota|1976-10-21|Minas Gerais|Feminino|2023-11-27|2023-12-02|5|Superior|9540.65|0.0|Música|Sim|Viúvo(a)
+2023-11-29|Dr. Gilberto|Ginecologista obstetra|Comum|899|Ana Luiza Aragão|1995-02-22|Minas Gerais|Feminino|2023-11-18|2023-11-23|5|Superior|5104.76|1.0|Viagens|Não|Divorciado(a)

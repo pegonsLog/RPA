@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-04-16|Dr. Lucas|Clínico geral|Comum|299|Marcelo Freitas|1997-11-21|Rio de Janeiro|Masculino|2022-04-13|2022-04-17|4|Fundamental|2282.76|1.0|Viagens|Não|Solteiro(a)
+2022-04-16|Dr. Eduardo|Ortopedista|Acidente de trabalho|36|Lívia Silva|1968-04-11|Goiás|Feminino|2022-03-20|2022-03-28|8|Médio|6387.08|4.0|Artes|Sim|Casado(a)
+2022-04-16|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|438|Pedro Lucas da Paz|1958-12-11|Espírito Santo|Masculino|2022-03-23|2022-04-06|14|Fundamental|3231.46|3.0|Esportes|Não|Viúvo(a)

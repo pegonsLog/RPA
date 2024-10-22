@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-07|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|496|Maria Vitória Rocha|1971-05-13|Amazonas|Feminino|2022-11-21|2022-12-09|18|Superior|3476.84|0.0|Artes|Sim|Viúvo(a)
+2022-12-07|Dr. Vinicius|Traumatologista|Enfermidade de filhos pequenos|647|Yuri Moura|1979-06-14|Rio Grande do Sul|Masculino|2022-11-28|2022-12-17|19|Fundamental|1855.65|3.0|Leitura|Não|Viúvo(a)

@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-11-09|Dr. Irineu|Ginecologista obstetra|Maternidade|420|Esther da Rocha|2004-09-26|Pernambuco|Feminino|2022-10-15|2022-10-31|16|Superior|8703.29|0.0|Viagens|Sim|Casado(a)
+2022-11-09|Dra. Vanessa|Pediatra|Enfermidade de filhos pequenos|537|Joana da Mota|2001-06-22|Santa Catarina|Feminino|2022-11-02|2022-11-14|12|Médio|4031.28|1.0|Leitura|Sim|Casado(a)

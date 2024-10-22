@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-16|Dr. Rafael|Clínico geral|Enfermidade de filhos pequenos|984|Luiz Gustavo Cavalcanti|1975-11-18|Distrito Federal|Masculino|2023-08-12|2023-08-27|15|Médio|3824.37|0.0|Artes|Não|Divorciado(a)
+2023-08-16|Dr. Lessa|Pediatra|Comum|505|Luigi Rezende|1982-07-23|Amazonas|Masculino|2023-08-07|2023-08-31|24|Superior|7897.39|4.0|Esportes|Sim|Casado(a)
+2023-08-16|Dra. Vanessa|Pediatra|Enfermidade de filhos pequenos|690|Enrico Aragão|1993-06-25|Ceará|Masculino|2023-08-15|2023-08-22|7|Médio|4193.86|0.0|Leitura|Não|Divorciado(a)

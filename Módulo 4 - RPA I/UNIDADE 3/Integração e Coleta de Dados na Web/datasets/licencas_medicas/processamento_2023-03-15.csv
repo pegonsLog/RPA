@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-15|Dr. Lucas|Clínico geral|Enfermidade de filhos pequenos|774|Lucca Moraes|2000-03-05|Amazonas|Masculino|2023-03-02|2023-03-20|18|Fundamental|1939.65|2.0|Música|Não|Divorciado(a)
+2023-03-15|Dr. Irineu|Ginecologista obstetra|Maternidade|113|Daniela Melo|1989-08-19|Tocantins|Feminino|2023-02-13|2023-03-15|30|Fundamental|8217.04|1.0|Artes|Sim|Solteiro(a)
+2023-03-15|Dra. Ana|Ginecologista obstetra|Maternidade|344|Milena Ribeiro|1959-07-24|Bahia|Feminino|2023-03-07|2023-03-14|7|Fundamental|7495.19|3.0|Artes|Sim|Viúvo(a)

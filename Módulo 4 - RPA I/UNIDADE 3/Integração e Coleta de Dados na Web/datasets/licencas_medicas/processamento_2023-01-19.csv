@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-01-19|Dr. Lucas|Clínico geral|Comum|839|Mariana Moraes|1960-11-27|Rondônia|Feminino|2023-01-14|2023-01-18|4|Superior|6438.74|2.0|Leitura|Sim|Divorciado(a)
+2023-01-19|Dra. Vanessa|Pediatra|Comum|885|Rafaela Nogueira|1968-09-28|Maranhão|Feminino|2023-01-03|2023-01-12|9|Médio|9797.84|1.0|Esportes|Não|Viúvo(a)

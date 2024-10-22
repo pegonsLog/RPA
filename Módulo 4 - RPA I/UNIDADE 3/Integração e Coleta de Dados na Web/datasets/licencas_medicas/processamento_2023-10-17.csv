@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-17|Dr. Rafael|Clínico geral|Acidente de trajeto|930|Luigi Moraes|1988-12-17|Rio Grande do Norte|Masculino|2023-10-06|2023-11-01|26|Fundamental|8411.1|1.0|Música|Sim|Casado(a)
+2023-10-17|Dr. Gilberto|Ginecologista obstetra|Maternidade|351|Rafaela da Cruz|1967-06-26|Maranhão|Feminino|2023-10-02|2023-10-19|17|Médio|4460.34|1.0|Viagens|Sim|Casado(a)
+2023-10-17|Dr. Ramos|Ortopedista|Acidente de trabalho|221|Milena Sales|1999-10-12|São Paulo|Feminino|2023-10-06|2023-10-29|23|Superior|7124.05|1.0|Leitura|Sim|Divorciado(a)

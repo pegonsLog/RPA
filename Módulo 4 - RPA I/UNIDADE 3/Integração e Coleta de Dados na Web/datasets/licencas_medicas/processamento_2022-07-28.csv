@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-07-28|Dr. Ramos|Ortopedista|Acidente de trabalho|567|Leonardo Farias|1974-01-14|Rio Grande do Sul|Masculino|2022-07-03|2022-07-14|11|Médio|4562.53|2.0|Esportes|Não|Casado(a)

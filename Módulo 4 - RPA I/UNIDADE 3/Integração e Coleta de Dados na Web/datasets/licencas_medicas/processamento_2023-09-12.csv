@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-09-12|Dr. Thiago|Ortopedista|Enfermidade de filhos pequenos|122|Lara Santos|1988-07-13|Minas Gerais|Feminino|2023-09-05|2023-09-06|1|Superior|4198.91|4.0|Esportes|Não|Solteiro(a)
+2023-09-12|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|611|Enzo Melo|1991-10-24|Paraná|Masculino|2023-08-22|2023-09-15|24|Superior|3107.33|0.0|Esportes|Sim|Divorciado(a)
+2023-09-12|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|611|Enzo Melo|1991-10-24|Paraná|Masculino|2023-08-22|2023-09-15|24|Superior|3107.33|0.0|Esportes|Sim|Divorciado(a)
+2023-09-12|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|611|Enzo Melo|1991-10-24|Paraná|Masculino|2023-08-22|2023-09-15|24|Superior|3107.33|0.0|Esportes|Sim|Divorciado(a)

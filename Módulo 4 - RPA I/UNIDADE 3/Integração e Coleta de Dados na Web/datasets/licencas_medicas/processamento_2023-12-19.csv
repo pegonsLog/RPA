@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-19|Dr. Pedro|Clínico geral|Comum|396|Enzo Araújo|1954-09-26|Rio de Janeiro|Masculino|2023-11-24|2023-12-16|22|Superior|6849.23|4.0|Artes|Não|Casado(a)
+2023-12-19|Dra. Fernanda|Ginecologista obstetra|Maternidade|136|Gabrielly Fogaça|1967-09-03|Maranhão|Feminino|2023-11-21|2023-12-06|15|Superior|1293.73|4.0|Leitura|Sim|Solteiro(a)
+2023-12-19|Dr. Irineu|Ginecologista obstetra|Comum|522|Ana Beatriz Rodrigues|1966-07-12|Paraíba|Feminino|2023-12-04|2023-12-14|10|Fundamental|3990.47|2.0|Esportes|Não|Solteiro(a)
+2023-12-19|Dr. André|Traumatologista|Acidente de trajeto|572|Nathan Ferreira|1975-12-18|Mato Grosso do Sul|Masculino|2023-12-11|2023-12-19|8|Médio|4465.49|2.0|Artes|Não|Casado(a)
+2023-12-19|Dr. Pedro|Clínico geral|Comum|396|Enzo Araújo|1954-09-26|Rio de Janeiro|Masculino|2023-11-24|2023-12-16|22|Superior|6849.23|4.0|Artes|Não|Casado(a)

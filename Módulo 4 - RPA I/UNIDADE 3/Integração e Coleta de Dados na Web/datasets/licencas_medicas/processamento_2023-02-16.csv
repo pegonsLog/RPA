@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-02-16|Dr. Pedro|Clínico geral|Enfermidade de filhos pequenos|333|Bianca Azevedo|1990-01-30|Roraima|Feminino|2023-02-02|2023-02-04|2|Fundamental|6742.53|4.0|Esportes|Não|Solteiro(a)
+2023-02-16|Dr. Marcos|Traumatologista|Acidente de trabalho|298|Amanda Rocha|1987-08-28|Acre|Feminino|2023-01-19|2023-01-22|3|Superior|5124.36|4.0|Viagens|Sim|Solteiro(a)

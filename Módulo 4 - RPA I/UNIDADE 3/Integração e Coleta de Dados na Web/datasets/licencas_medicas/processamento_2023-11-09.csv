@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-11-09|Dr. Rafael|Clínico geral|Comum|654|Juan Aragão|1977-07-31|Acre|Masculino|2023-10-20|2023-11-02|13|Médio|7182.91|1.0|Esportes|Não|Viúvo(a)
+2023-11-09|Dr. Ramos|Ortopedista|Acidente de trabalho|220|Fernando Caldeira|1964-10-09|Roraima|Masculino|2023-11-04|2023-11-07|3|Médio|3385.67|2.0|Leitura|Não|Solteiro(a)
+2023-11-09|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|171|João Vitor Cavalcanti|1972-08-27|Rio Grande do Sul|Masculino|2023-11-01|2023-12-01|30|Médio|7373.16|4.0|Artes|Sim|Divorciado(a)
+2023-11-09|Dr. Marcos|Traumatologista|Comum|184|Maria Sophia Freitas|1953-12-20|Mato Grosso|Feminino|2023-11-07|2023-11-08|1|Fundamental|6387.25|3.0|Viagens|Não|Divorciado(a)

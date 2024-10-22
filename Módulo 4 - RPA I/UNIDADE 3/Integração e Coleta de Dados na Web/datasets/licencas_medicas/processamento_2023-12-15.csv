@@ -1,0 +1,7 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-15|Dr. Pedro|Clínico geral|Comum|427|Isaac Teixeira|1970-07-11|Goiás|Masculino|2023-12-01|2023-12-24|23|Superior|5394.37|1.0|Leitura|Não|Casado(a)
+2023-12-15|Dr. Gustavo|Clínico geral|Acidente de trabalho|638|Maitê Caldeira|1957-11-24|Rio Grande do Sul|Feminino|2023-11-19|2023-12-01|12|Médio|8041.01|3.0|Esportes|Não|Solteiro(a)
+2023-12-15|Dr. Pedro|Clínico geral|Comum|844|Lorenzo Almeida|1988-08-03|Espírito Santo|Masculino|2023-11-16|2023-12-05|19|Fundamental|6183.7|2.0|Música|Não|Solteiro(a)
+2023-12-15|Dr. Irineu|Ginecologista obstetra|Maternidade|625|Maitê Peixoto|1954-09-11|Rio Grande do Sul|Feminino|2023-11-15|2023-12-11|26|Médio|8604.04|0.0|Viagens|Sim|Viúvo(a)
+2023-12-15|Dr. Felipe|Ortopedista|Comum|35|Pietra Lima|1980-02-09|Amazonas|Feminino|2023-11-22|2023-12-21|29|Médio||3.0|Artes|Sim|Viúvo(a)
+2023-12-15|Dr. André|Traumatologista|Acidente de trabalho|657|Emanuelly Nunes|1986-01-05|Distrito Federal|Feminino|2023-12-02|2023-12-20|18|Superior|8139.55|3.0|Esportes|Não|Solteiro(a)

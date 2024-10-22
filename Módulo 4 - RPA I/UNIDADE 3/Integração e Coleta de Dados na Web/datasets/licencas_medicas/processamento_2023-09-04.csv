@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-09-04|Dr. Marcelo|Clínico geral|Acidente de trabalho|75|Eloah Costela|1979-11-30|Rio de Janeiro|Feminino|2023-08-20|2023-08-29|9|Superior|5366.83|3.0|Artes|Não|Solteiro(a)
+2023-09-04|Dr. Thiago|Ortopedista|Acidente de trabalho|83|Brenda Viana|1956-06-13|Amapá|Feminino|2023-08-27|2023-08-31|4|Fundamental|4630.91|2.0|Viagens|Sim|Solteiro(a)
+2023-09-04|Dra. Daniele|Traumatologista|Acidente de trabalho|198|Nicole Castro|1971-12-25|Mato Grosso do Sul|Feminino|2023-08-08|2023-08-16|8|Fundamental|1163.78|1.0|Artes|Sim|Viúvo(a)

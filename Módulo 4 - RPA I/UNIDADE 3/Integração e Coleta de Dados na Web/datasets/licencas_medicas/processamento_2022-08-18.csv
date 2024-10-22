@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-08-18|Dr. Gustavo|Clínico geral|Comum|395|João Lucas Caldeira|2001-12-06|Roraima|Masculino|2022-07-22|2022-08-05|14|Superior|5350.6|4.0|Esportes|Não|Divorciado(a)
+2022-08-18|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|571|Nina Silveira|1996-06-28|Tocantins|Feminino|2022-07-21|2022-08-07|17|Superior|4606.26|3.0|Artes|Sim|Solteiro(a)
+2022-08-18|Dr. Gustavo|Clínico geral|Comum|395|João Lucas Caldeira|2001-12-06|Roraima|Masculino|2022-07-22|2022-08-05|14|Superior|5350.6|4.0|Esportes|Não|Divorciado(a)
+2022-08-18|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|571|Nina Silveira|1996-06-28|Tocantins|Feminino|2022-07-21|2022-08-07|17|Superior|4606.26|3.0|Artes|Sim|Solteiro(a)

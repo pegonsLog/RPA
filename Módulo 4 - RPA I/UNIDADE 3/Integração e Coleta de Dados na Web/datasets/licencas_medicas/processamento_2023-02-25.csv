@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-02-25|Dra. Laura|Pediatra|Enfermidade de filhos pequenos|680|Rafael Santos|1988-09-27|Amazonas|Masculino|2023-02-06|2023-02-24|18|Fundamental|2961.74|4.0|Música|Não|Casado(a)
+2023-02-25|Dra. Vanessa|Pediatra|Comum|764|Sarah Novaes|1986-10-30|Rondônia|Feminino|2023-02-08|2023-02-24|16|Fundamental|8815.94|0.0|Artes|Não|Viúvo(a)

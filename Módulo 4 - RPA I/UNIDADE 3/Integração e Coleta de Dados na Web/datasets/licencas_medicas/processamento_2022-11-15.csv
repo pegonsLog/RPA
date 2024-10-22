@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-11-15|Dra. Fernanda|Ginecologista obstetra|Maternidade|791|Manuela Teixeira|1998-08-20|Amazonas|Feminino|2022-11-03|2022-11-12|9|Superior|6364.66|3.0|Música|Sim|Divorciado(a)
+2022-11-15|Dr. Felipe|Ortopedista|Acidente de trabalho|146|Danilo Moraes|1966-03-14|Pará|Masculino|2022-11-14|2022-12-10|26|Superior|4413.83|1.0|Esportes|Sim|Viúvo(a)
+2022-11-15|Dr. Rodrigo|Ortopedista|Enfermidade de filhos pequenos|259|Cauê Costa|1987-08-16|Amapá|Masculino|2022-11-03|2022-11-15|12|Fundamental|6640.22|1.0|Música|Sim|Solteiro(a)
+2022-11-15|Dr. André|Traumatologista|Acidente de trajeto|212|Renan Farias|1987-12-01|Rio Grande do Sul|Masculino|2022-11-04|2022-11-11|7|Médio|2524.12|1.0|Artes|Não|Viúvo(a)
+2022-11-15|Dr. Ricardo|Traumatologista|Acidente de trabalho|741|Ana Luiza Nunes|1989-09-10|Minas Gerais|Feminino|2022-11-06|2022-11-25|19|Superior|9341.13|4.0|Artes|Sim|Divorciado(a)

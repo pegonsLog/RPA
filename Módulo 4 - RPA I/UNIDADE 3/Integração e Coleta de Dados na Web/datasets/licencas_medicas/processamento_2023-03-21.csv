@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-21|Dr. Pedro|Clínico geral|Comum|955|Luigi Almeida|1996-10-31|Bahia|Masculino|2023-03-21|2023-04-17|27|Médio|6664.35|3.0|Viagens|Sim|Viúvo(a)
+2023-03-21|Dr. Ramos|Ortopedista|Enfermidade de filhos pequenos|884|Lorenzo Gonçalves|1985-11-03|Rio de Janeiro|Masculino|2023-03-04|2023-03-05|1|Fundamental|7823.89|3.0|Leitura|Não|Solteiro(a)
+2023-03-21|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|686|Ana Clara Nogueira|2000-06-30|Tocantins|Feminino|2023-03-03|2023-03-16|13|Superior|1454.4|1.0|Música|Sim|Viúvo(a)

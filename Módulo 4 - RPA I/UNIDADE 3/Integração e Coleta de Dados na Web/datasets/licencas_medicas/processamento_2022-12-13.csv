@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-13|Dr. André|Traumatologista|Acidente de trabalho|543|André Campos|1958-05-21|Paraná|Masculino|2022-12-12|2023-01-07|26|Médio|6332.94|1.0|Artes|Não|Divorciado(a)

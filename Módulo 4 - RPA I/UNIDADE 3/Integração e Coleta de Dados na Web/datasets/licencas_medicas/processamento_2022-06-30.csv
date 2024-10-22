@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-06-30|Dr. Pedro|Clínico geral|Acidente de trabalho|14|Bianca Nogueira|1980-03-26|Pernambuco|Feminino|2022-06-01|2022-06-12|11|Médio|7703.04|3.0|Música|Não|Viúvo(a)
+2022-06-30|Dr. Pedro|Clínico geral|Acidente de trajeto|332|Vitória Viana|1954-04-20|Pará|Feminino|2022-06-13|2022-06-28|15|Médio|5245.18|1.0|Esportes|Sim|Solteiro(a)

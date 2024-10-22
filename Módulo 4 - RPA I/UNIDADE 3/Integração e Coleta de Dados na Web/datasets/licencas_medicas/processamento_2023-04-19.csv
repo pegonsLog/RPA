@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-04-19|Dra. Ana|Ginecologista obstetra|Maternidade|841|Gabriela Cardoso|2003-06-15|São Paulo|Feminino|2023-04-07|2023-04-28|21|Superior|4705.7|2.0|Leitura|Sim|Viúvo(a)
+2023-04-19|Dra. Juliana|Ginecologista obstetra|Maternidade|874|Fernanda Novaes|1963-08-20|Rio Grande do Norte|Feminino|2023-04-18|2023-05-05|17|Médio||2.0|Esportes|Não|Casado(a)

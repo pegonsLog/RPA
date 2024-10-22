@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-26|Dr. Pedro|Clínico geral|Enfermidade de filhos pequenos|56|Bruna Cavalcanti|1981-08-31|Tocantins|Feminino|2022-12-14|2023-01-10|27|Médio|8472.49|1.0|Artes|Sim|Viúvo(a)
+2022-12-26|Dr. Rafael|Clínico geral|Acidente de trabalho|650|Kevin Cunha|2000-05-11|Distrito Federal|Masculino|2022-12-01|2022-12-24|23|Médio|4093.75|1.0|Esportes|Sim|Viúvo(a)
+2022-12-26|Dr. Thiago|Ortopedista|Comum|301|Anthony Jesus|1966-03-28|Rio Grande do Sul|Masculino|2022-12-02|2022-12-10|8|Fundamental|1654.95|0.0|Música|Sim|Divorciado(a)

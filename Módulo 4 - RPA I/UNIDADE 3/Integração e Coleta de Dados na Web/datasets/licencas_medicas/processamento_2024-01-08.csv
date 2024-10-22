@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2024-01-08|Dra. Ana|Ginecologista obstetra|Maternidade|104|Kamilly Silveira|1961-03-15|Ceará|Feminino|2023-12-21|2023-12-29|8|Fundamental|1735.07|0.0|Música|Sim|Viúvo(a)
+2024-01-08|Dr. Rodrigo|Ortopedista|Acidente de trajeto|392|Maria Farias|1960-03-01|Mato Grosso do Sul|Feminino|2023-12-21|2023-12-28|7|Superior|5436.52|2.0|Música|Não|Solteiro(a)
+2024-01-08|Dr. Felipe|Ortopedista|Enfermidade de filhos pequenos|829|Ana Lívia Farias|1961-07-09|Bahia|Feminino|2023-12-24|2024-01-12|19|Médio|9669.14|3.0|Artes|Não|Casado(a)

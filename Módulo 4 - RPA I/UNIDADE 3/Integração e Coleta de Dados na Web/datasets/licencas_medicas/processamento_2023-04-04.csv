@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-04-04|Dr. Ramos|Ortopedista|Acidente de trabalho|253|Laura Freitas|2004-09-26|São Paulo|Feminino|2023-03-14|2023-03-25|11|Fundamental|1841.53|4.0|Leitura|Sim|Divorciado(a)
+2023-04-04|Dr. Felipe|Ortopedista|Comum|704|Valentina Almeida|1994-08-26|Ceará|Feminino|2023-03-16|2023-04-13|28|Fundamental|6460.69|3.0|Esportes|Não|Casado(a)
+2023-04-04|Dr. Ricardo|Traumatologista|Acidente de trabalho|830|Gabrielly Martins|1989-12-22|Santa Catarina|Feminino|2023-03-21|2023-03-26|5|Fundamental|3617.85|3.0|Artes|Não|Casado(a)

@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-20|Dr. Ricardo|Traumatologista|Acidente de trabalho|135|Pedro Duarte|1990-07-08|Distrito Federal|Masculino|2023-10-19|2023-10-24|5|Médio|2157.32|3.0|Música|Não|Solteiro(a)

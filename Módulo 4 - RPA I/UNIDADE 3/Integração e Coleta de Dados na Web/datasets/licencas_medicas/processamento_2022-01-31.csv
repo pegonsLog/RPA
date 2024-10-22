@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-01-31|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|633|Vitor Sales|1968-05-09|Santa Catarina|Masculino|2022-01-14|2022-02-13|30|Fundamental|6962.44|3.0|Leitura|Sim|Solteiro(a)

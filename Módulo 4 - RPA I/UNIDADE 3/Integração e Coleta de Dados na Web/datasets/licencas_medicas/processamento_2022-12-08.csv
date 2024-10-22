@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-08|Dr. Rodrigo|Ortopedista|Enfermidade de filhos pequenos|775|Felipe Sales|1990-03-29|Rondônia|Masculino|2022-11-26|2022-12-15|19|Fundamental|7047.96|0.0|Música|Sim|Viúvo(a)
+2022-12-08|Dra. Laura|Pediatra|Enfermidade de filhos pequenos|483|Nicole Ribeiro|1981-03-29|Paraíba|Feminino|2022-12-06|2023-01-05|30|Médio|2491.54|3.0|Artes|Não|Solteiro(a)
+2022-12-08|Dr. André|Traumatologista|Enfermidade de filhos pequenos|178|Letícia Ribeiro|1998-01-09|Acre|Feminino|2022-11-11|2022-12-10|29|Superior|3173.21|3.0|Viagens|Sim|Casado(a)

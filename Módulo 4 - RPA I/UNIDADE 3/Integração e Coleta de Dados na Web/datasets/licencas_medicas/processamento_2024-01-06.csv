@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2024-01-06|Dra. Ana|Ginecologista obstetra|Maternidade|823|Giovanna Aragão|1987-10-13|Acre|Feminino|2023-12-28|2024-01-23|26|Superior|4875.16|3.0|Esportes|Sim|Solteiro(a)
+2024-01-06|Dr. Gilberto|Ginecologista obstetra|Comum|942|Luana da Mata|1966-08-22|Mato Grosso do Sul|Feminino|2023-12-28|2023-12-29|1|Médio|5152.5|0.0|Esportes|Não|Viúvo(a)

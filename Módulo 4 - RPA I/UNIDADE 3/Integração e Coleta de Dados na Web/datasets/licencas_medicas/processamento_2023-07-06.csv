@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-06|Dr. Pedro|Clínico geral|Comum|365|Carlos Eduardo Oliveira|1996-12-24|Pernambuco|Masculino|2023-06-17|2023-07-11|24|Superior|6524.49|0.0|Viagens|Não|Viúvo(a)
+2023-07-06|Dr. Eduardo|Ortopedista|Acidente de trajeto|535|Antônio Rezende|1991-07-27|Tocantins|Masculino|2023-07-01|2023-07-28|27|Fundamental|8517.01|0.0|Artes|Sim|Casado(a)
+2023-07-06|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|671|Kamilly Almeida|1996-06-18|Maranhão|Feminino|2023-06-08|2023-07-03|25|Médio|4152.93|2.0|Esportes|Não|Solteiro(a)
+2023-07-06|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|671|Kamilly Almeida|1996-06-18|Maranhão|Feminino|2023-06-08|2023-07-03|25|Médio|4152.93|2.0|Esportes|Não|Solteiro(a)

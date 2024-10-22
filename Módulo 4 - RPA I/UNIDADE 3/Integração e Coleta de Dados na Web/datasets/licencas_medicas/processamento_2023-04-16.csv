@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-04-16|Dr. Lucas|Clínico geral|Comum|674|Luiz Fernando Freitas|1985-07-12|Espírito Santo|Masculino|2023-04-16|2023-05-16|30|Médio|2002.77|1.0|Artes|Não|Solteiro(a)
+2023-04-16|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|609|Yuri Dias|1987-04-03|Espírito Santo|Masculino|2023-03-27|2023-04-17|21|Superior|8931.44|3.0|Artes|Não|Solteiro(a)
+2023-04-16|Dra. Carolina|Pediatra|Comum|456|Ian Araújo|1990-07-25|Rio de Janeiro|Masculino|2023-04-06|2023-04-09|3|Médio|3940.22|4.0|Leitura|Sim|Divorciado(a)

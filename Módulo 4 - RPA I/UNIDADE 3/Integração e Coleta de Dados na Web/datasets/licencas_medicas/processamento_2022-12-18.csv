@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-18|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|132|Alícia Barros|1993-08-07|Rio de Janeiro|Feminino|2022-12-11|2023-01-09|29|Superior|6650.39|3.0|Artes|Sim|Divorciado(a)
+2022-12-18|Dr. Rodrigo|Ortopedista|Comum|275|Luana da Conceição|1968-08-29|Piauí|Feminino|2022-11-21|2022-12-19|28|Superior|6210.71|1.0|Viagens|Sim|Divorciado(a)
+2022-12-18|Dra. Vanessa|Pediatra|Comum|141|Rafaela Lopes|1996-10-05|Rio Grande do Sul|Feminino|2022-12-08|2022-12-17|9|Superior|3838.25|3.0|Esportes|Sim|Divorciado(a)

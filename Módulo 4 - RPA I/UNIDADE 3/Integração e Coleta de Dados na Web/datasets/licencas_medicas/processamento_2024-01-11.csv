@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2024-01-11|Dr. Lucas|Clínico geral|Comum|990|Lavínia Moreira|2004-03-18|Bahia|Feminino|2023-12-12|2023-12-17|5|Médio||0.0|Música|Não|Divorciado(a)
+2024-01-11|Dra. Ana|Ginecologista obstetra|Comum|472|Joana Mendes|1996-03-25|Pernambuco|Feminino|2023-12-17|2023-12-31|14|Superior|5939.28|0.0|Leitura|Sim|Viúvo(a)
+2024-01-11|Dra. Ana|Ginecologista obstetra|Comum|545|Ana Luiza Lopes|1986-08-18|Distrito Federal|Feminino|2023-12-19|2024-01-13|25|Médio|7435.51|3.0|Música|Sim|Divorciado(a)

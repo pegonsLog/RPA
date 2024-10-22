@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-12|Dr. Thiago|Ortopedista|Acidente de trabalho|251|Benjamin Cunha|1964-07-18|Rio Grande do Sul|Masculino|2023-06-23|2023-07-20|27|Fundamental|2415.18|1.0|Música|Não|Casado(a)
+2023-07-12|Dr. Lessa|Pediatra|Comum|68|Vinicius Rodrigues|1999-01-08|Roraima|Masculino|2023-06-22|2023-06-26|4|Fundamental|5519.87|3.0|Leitura|Sim|Divorciado(a)

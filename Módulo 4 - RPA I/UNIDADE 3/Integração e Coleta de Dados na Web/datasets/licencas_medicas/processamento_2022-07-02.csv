@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-07-02|Dr. Eduardo|Ortopedista|Acidente de trajeto|428|Evelyn Ribeiro|1987-10-18|Acre|Feminino|2022-06-21|2022-06-30|9|Médio|2449.76|2.0|Música|Não|Divorciado(a)
+2022-07-02|Dr. Roberto|Pediatra|Comum|29|Benício Freitas|1991-02-18|Santa Catarina|Masculino|2022-06-14|2022-07-08|24|Médio|6482.58|2.0|Viagens|Não|Divorciado(a)

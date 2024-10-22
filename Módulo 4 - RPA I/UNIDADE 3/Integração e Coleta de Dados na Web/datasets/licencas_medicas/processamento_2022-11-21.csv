@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-11-21|Dr. Rafael|Clínico geral|Comum|44|Bernardo Alves|1997-07-24|Sergipe|Masculino|2022-10-22|2022-10-29|7|Médio|9599.22|0.0|Artes|Não|Divorciado(a)
+2022-11-21|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|4|Beatriz Cavalcanti|2005-01-27|Minas Gerais|Feminino|2022-11-10|2022-11-16|6|Superior|4709.23|4.0|Leitura|Sim|Solteiro(a)
+2022-11-21|Dr. Felipe|Ortopedista|Acidente de trabalho|87|Julia Pires|1973-01-04|Santa Catarina|Feminino|2022-11-03|2022-11-19|16|Fundamental|4639.35|3.0|Música|Sim|Viúvo(a)

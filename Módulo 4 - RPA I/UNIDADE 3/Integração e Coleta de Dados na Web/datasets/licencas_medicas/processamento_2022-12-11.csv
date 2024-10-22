@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-11|Dr. Pedro|Clínico geral|Acidente de trabalho|769|João Guilherme da Mota|1995-05-23|Amapá|Masculino|2022-12-11|2022-12-12|1|Fundamental|8439.65|1.0|Esportes|Não|Viúvo(a)

@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-10|Dr. Gustavo|Clínico geral|Comum|439|Yuri Mendes|1972-04-26|Sergipe|Masculino|2023-06-24|2023-07-03|9|Médio|2998.44|1.0|Viagens|Não|Solteiro(a)
+2023-07-10|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|213|Danilo Barros|1978-09-21|Mato Grosso do Sul|Masculino|2023-06-24|2023-07-21|27|Fundamental|2677.64|3.0|Artes|Não|Casado(a)

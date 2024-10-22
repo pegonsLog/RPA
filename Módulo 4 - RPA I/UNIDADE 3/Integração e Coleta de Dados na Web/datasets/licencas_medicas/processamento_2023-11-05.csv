@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-11-05|Dr. Irineu|Ginecologista obstetra|Maternidade|668|Nicole Pinto|1952-09-25|Mato Grosso do Sul|Feminino|2023-10-22|2023-11-21|30|Médio|3632.98|2.0|Leitura|Não|Solteiro(a)
+2023-11-05|Dr. Roberto|Pediatra|Comum|400|Otávio Monteiro|1991-08-07|Bahia|Masculino|2023-11-04|2023-11-10|6|Médio|8559.3|0.0|Música|Não|Divorciado(a)
+2023-11-05|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|937|Lara Peixoto|1978-09-18|Distrito Federal|Feminino|2023-10-20|2023-11-03|14|Fundamental|3180.55|1.0|Viagens|Não|Viúvo(a)
+2023-11-05|Dra. Daniele|Traumatologista|Comum|816|Luana Costa|1987-04-13|Rio de Janeiro|Feminino|2023-10-22|2023-10-24|2|Superior|7772.97|1.0|Leitura|Não|Solteiro(a)

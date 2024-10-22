@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-11-04|Dra. Fernanda|Ginecologista obstetra|Maternidade|440|Sabrina Barros|1997-04-21|Rondônia|Feminino|2022-10-23|2022-11-08|16|Médio|5673.85|4.0|Viagens|Não|Viúvo(a)
+2022-11-04|Dra. Ana|Ginecologista obstetra|Maternidade|895|Brenda Rocha|1980-12-09|Santa Catarina|Feminino|2022-11-03|2022-12-03|30|Fundamental|9791.03|3.0|Leitura|Não|Viúvo(a)
+2022-11-04|Dr. Felipe|Ortopedista|Comum|876|Vitória Santos|1990-04-20|Amapá|Feminino|2022-10-10|2022-10-30|20|Fundamental|1619.85|3.0|Música|Sim|Casado(a)

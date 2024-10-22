@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-01-31|Dra. Ana|Ginecologista obstetra|Maternidade|307|Eloah Aragão|1955-09-17|Maranhão|Feminino|2023-01-20|2023-02-14|25|Fundamental|5815.22|2.0|Música|Sim|Divorciado(a)
+2023-01-31|Dr. Felipe|Ortopedista|Acidente de trabalho|656|Lorena Porto|1976-09-11|Tocantins|Feminino|2023-01-02|2023-01-30|28|Superior|8642.81|4.0|Esportes|Sim|Casado(a)
+2023-01-31|Dr. Ricardo|Traumatologista|Comum|452|Lorenzo Alves|1968-05-08|Rio Grande do Norte|Masculino|2023-01-24|2023-02-16|23|Médio|3989.9|3.0|Artes|Sim|Solteiro(a)

@@ -1,0 +1,8 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-30|Dra. Ana|Ginecologista obstetra|Maternidade|111|Rebeca Pires|2000-01-01|Mato Grosso|Feminino|2022-09-28|2022-10-04|6|Superior|5313.89|2.0|Leitura|Não|Solteiro(a)
+2022-09-30|Dra. Fernanda|Ginecologista obstetra|Maternidade|484|Sarah Campos|1966-05-14|Piauí|Feminino|2022-09-07|2022-10-07|30|Superior|7467.5|2.0|Viagens|Não|Casado(a)
+2022-09-30|Dr. Felipe|Ortopedista|Acidente de trajeto|196|Manuela Cardoso|1992-11-01|Distrito Federal|Feminino|2022-09-10|2022-10-01|21|Médio|3097.83|1.0|Artes|Não|Viúvo(a)
+2022-09-30|Dr. Rodrigo|Ortopedista|Enfermidade de filhos pequenos|762|Paulo da Mata|1977-11-13|Alagoas|Masculino|2022-09-26|2022-09-28|2|Médio|2213.04|4.0|Música|Não|
+2022-09-30|Dr. Marcos|Traumatologista|Comum|107|Isadora Duarte|1975-01-20|Distrito Federal|Feminino|2022-09-20|2022-10-05|15|Fundamental|1737.01|1.0|Música|Não|Solteiro(a)
+2022-09-30|Dr. Marcos|Traumatologista|Comum|702|Igor Porto|1983-06-29|Maranhão|Masculino|2022-09-16|2022-09-26|10|Fundamental|9243.2|1.0|Leitura|Não|Viúvo(a)
+2022-09-30|Dr. Marcos|Traumatologista|Comum|702|Igor Porto|1983-06-29|Maranhão|Masculino|2022-09-16|2022-09-26|10|Fundamental|9243.2|1.0|Leitura|Não|Viúvo(a)

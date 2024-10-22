@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-04|Dr. Ramos|Ortopedista|Acidente de trabalho|182|Henrique Lima|1963-09-05|Minas Gerais|Masculino|2023-06-07|2023-06-13|6|Médio|5062.89|2.0|Viagens|Sim|Viúvo(a)
+2023-07-04|Dr. Vinicius|Traumatologista|Acidente de trabalho|846|Gustavo Henrique Silveira|1961-07-22|Santa Catarina|Masculino|2023-06-23|2023-07-19|26|Médio|6823.84|2.0|Artes|Sim|Viúvo(a)

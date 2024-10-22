@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-10|Dr. Gilberto|Ginecologista obstetra|Maternidade|64|Maria Cecília Barbosa|2002-10-30|Paraná|Feminino|2022-08-20|2022-09-06|17|Fundamental|9342.89|2.0|Leitura|Não|Solteiro(a)
+2022-09-10|Dr. Roberto|Pediatra|Comum|181|Luiz Otávio Sales|1975-08-23|Bahia|Masculino|2022-09-10|2022-09-17|7|Superior|2692.66|3.0|Leitura|Sim|Solteiro(a)
+2022-09-10|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|303|Gabriela da Luz|1957-11-06|Minas Gerais|Feminino|2022-08-21|2022-09-17|27|Superior|9956.25|3.0|Esportes|Sim|Divorciado(a)

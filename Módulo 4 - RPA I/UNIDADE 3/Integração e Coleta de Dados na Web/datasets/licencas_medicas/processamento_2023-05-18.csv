@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-05-18|Dr. Marcelo|Clínico geral|Acidente de trabalho|338|Enzo Gabriel da Mata|2001-09-02|Rio Grande do Sul|Masculino|2023-05-06|2023-05-08|2|Superior|6225.01|1.0|Viagens|Sim|Solteiro(a)
+2023-05-18|Dra. Juliana|Ginecologista obstetra|Comum|925|Ana Laura Porto|1993-09-10|Mato Grosso|Feminino|2023-04-21|2023-05-09|18|Médio|1414.98|3.0|Leitura|Não|Solteiro(a)
+2023-05-18|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|509|Levi Oliveira|1991-05-30|Rio Grande do Norte|Masculino|2023-05-11|2023-06-02|22|Superior|7760.42|0.0|Esportes|Não|Solteiro(a)

@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-05-03|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|896|Ryan Gonçalves|1991-06-29|Rondônia|Masculino|2023-04-13|2023-05-03|20|Superior|5388.24|2.0|Viagens|Não|Viúvo(a)
+2023-05-03|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|384|Vinicius Caldeira|1974-09-04|Roraima|Masculino|2023-04-27|2023-05-08|11|Médio|8271.5|4.0|Música|Não|Solteiro(a)

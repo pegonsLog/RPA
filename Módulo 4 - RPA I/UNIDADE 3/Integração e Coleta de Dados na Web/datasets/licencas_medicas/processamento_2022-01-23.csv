@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-01-23|Dr. Felipe|Ortopedista|Acidente de trajeto|10|Alana Nogueira|1989-07-28|Espírito Santo|Feminino|2022-01-10|2022-01-17|7|Médio|5528.49|3.0|Viagens|Não|Solteiro(a)
+2022-01-23|Dr. Rodrigo|Ortopedista|Enfermidade de filhos pequenos|553|Clarice Sales|1998-10-26|Ceará|Feminino|2022-01-10|2022-01-11|1|Médio|6732.5|4.0|Música|Sim|Divorciado(a)
+2022-01-23|Dra. Carolina|Pediatra|Comum|834|Lucca Melo|1993-08-03|Piauí|Masculino|2022-01-01|2022-01-09|8|Fundamental|4726.3|1.0|Artes|Não|Divorciado(a)

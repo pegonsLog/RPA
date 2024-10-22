@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-22|Dr. Felipe|Ortopedista|Enfermidade de filhos pequenos|739|Cauê Freitas|1969-06-19|Paraná|Masculino|2022-10-08|2022-10-15|7|Médio|3679.56|2.0|Viagens|Sim|Casado(a)
+2022-10-22|Dr. Ricardo|Traumatologista|Acidente de trajeto|701|Cecília das Neves|1967-09-21|Goiás|Feminino|2022-09-22|2022-10-15|23|Superior|3609.11|4.0|Esportes|Sim|Divorciado(a)
+2022-10-22|Dr. Ricardo|Traumatologista|Acidente de trajeto|701|Cecília das Neves|1967-09-21|Goiás|Feminino|2022-09-22|2022-10-15|23|Superior|3609.11|4.0|Esportes|Sim|Divorciado(a)

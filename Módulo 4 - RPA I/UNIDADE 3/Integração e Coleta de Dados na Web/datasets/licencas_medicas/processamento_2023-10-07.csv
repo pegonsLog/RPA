@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-07|Dr. Rafael|Clínico geral|Acidente de trabalho|407|Thiago Cunha|1984-12-15|Maranhão|Masculino|2023-09-23|2023-10-21|28|Superior|5615.17|3.0|Artes|Não|Casado(a)
+2023-10-07|Dr. Felipe|Ortopedista|Acidente de trajeto|575|Rafaela Costa|1986-06-19|Pará|Feminino|2023-09-13|2023-09-30|17|Médio|9161.39|4.0|Leitura|Não|Solteiro(a)
+2023-10-07|Dra. Vanessa|Pediatra|Comum|72|Diogo da Costa|1953-06-19|Distrito Federal|Masculino|2023-09-10|2023-10-09|29|Médio|7211.45|3.0|Viagens|Sim|
+2023-10-07|Dr. Rafael|Clínico geral|Acidente de trabalho|407|Thiago Cunha|1984-12-15|Maranhão|Masculino|2023-09-23|2023-10-21|28|Superior|5615.17|3.0|Artes|Não|Casado(a)

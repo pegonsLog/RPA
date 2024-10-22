@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-09-28|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|660|Ana Carolina da Mota|1997-06-20|Rondônia|Feminino|2023-09-07|2023-09-25|18|Superior|5516.01|0.0|Artes|Não|Casado(a)
+2023-09-28|Dr. André|Traumatologista|Enfermidade de filhos pequenos|624|Breno Cunha|2000-05-17|Paraíba|Masculino|2023-09-07|2023-09-29|22|Fundamental|4209.13|1.0|Viagens|Não|Viúvo(a)

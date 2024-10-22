@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-01-22|Dr. Lucas|Clínico geral|Comum|67|Yuri Costa|1981-11-04|Maranhão|Masculino|2022-01-16|2022-02-07|22|Superior|7793.26|2.0|Artes|Sim|Viúvo(a)
+2022-01-22|Dra. Fernanda|Ginecologista obstetra|Maternidade|398|Joana Moreira|1988-10-17|Alagoas|Feminino|2022-01-14|2022-02-13|30|Médio|4915.77|4.0|Artes|Não|Casado(a)
+2022-01-22|Dra. Ana|Ginecologista obstetra|Maternidade|757|Isabel Alves|1985-11-23|Sergipe|Feminino|2022-01-13|2022-02-02|20|Fundamental|4868.18|1.0|Artes|Não|Viúvo(a)
+2022-01-22|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|977|Leandro Fernandes|1995-02-24|Acre|Masculino|2022-01-19|2022-02-08|20|Fundamental|8653.11|2.0|Música|Sim|Solteiro(a)

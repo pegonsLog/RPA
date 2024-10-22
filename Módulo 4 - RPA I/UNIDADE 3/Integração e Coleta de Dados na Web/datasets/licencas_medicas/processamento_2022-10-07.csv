@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-07|Dra. Fernanda|Ginecologista obstetra|Maternidade|969|Isadora da Conceição|1962-06-08|Piauí|Feminino|2022-10-07|2022-10-14|7|Fundamental|2666.31|0.0|Leitura|Sim|Viúvo(a)
+2022-10-07|Dr. Rodrigo|Ortopedista|Acidente de trajeto|592|Breno Correia|2003-07-06|São Paulo|Masculino|2022-09-16|2022-10-04|18|Fundamental|6249.74|0.0|Artes|Sim|Viúvo(a)
+2022-10-07|Dra. Daniele|Traumatologista|Comum|19|Rafael Jesus|2001-07-20|Mato Grosso do Sul|Masculino|2022-09-25|2022-10-10|15|Superior|4311.77|2.0|Leitura|Não|Solteiro(a)

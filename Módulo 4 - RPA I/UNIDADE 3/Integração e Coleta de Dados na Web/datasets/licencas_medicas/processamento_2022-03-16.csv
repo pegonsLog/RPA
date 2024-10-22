@@ -1,0 +1,8 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-03-16|Dra. Fernanda|Ginecologista obstetra|Maternidade|715|Mirella Caldeira|1976-06-23|Distrito Federal|Feminino|2022-02-27|2022-03-24|25|Superior||4.0|Música|Sim|Divorciado(a)
+2022-03-16|Dra. Vanessa|Pediatra|Comum|241|Cauã Pinto|1952-07-22|Santa Catarina|Masculino|2022-02-28|2022-03-18|18|Médio|7231.63|0.0|Esportes|Não|Viúvo(a)
+2022-03-16|Dra. Laura|Pediatra|Comum|291|Murilo da Rosa|1993-04-10|Espírito Santo|Masculino|2022-02-22|2022-03-10|16|Fundamental|3093.31|0.0|Leitura|Sim|Viúvo(a)
+2022-03-16|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|837|Ana Vitória Ribeiro|1962-04-17|Maranhão|Feminino|2022-02-27|2022-03-21|22|Superior|5672.82|4.0|Artes|Não|Casado(a)
+2022-03-16|Dr. André|Traumatologista|Acidente de trajeto|174|Alana da Cunha|2003-09-22|Pará|Feminino|2022-02-24|2022-03-05|9|Fundamental|7484.7|1.0|Artes|Sim|Casado(a)
+2022-03-16|Dr. Marcos|Traumatologista|Enfermidade de filhos pequenos|437|Ana Sophia Vieira|1987-04-04|Rondônia|Feminino|2022-03-03|2022-03-22|19|Fundamental|7923.34|4.0|Artes|Não|Solteiro(a)
+2022-03-16|Dr. Ricardo|Traumatologista|Acidente de trajeto|661|Lara Vieira|1954-08-29|Mato Grosso do Sul|Feminino|2022-03-01|2022-03-09|8|Médio|2855.92|3.0|Música|Não|Casado(a)

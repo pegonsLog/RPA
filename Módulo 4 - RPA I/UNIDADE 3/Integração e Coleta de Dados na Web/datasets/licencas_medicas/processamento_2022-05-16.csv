@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-16|Dr. Ricardo|Traumatologista|Acidente de trabalho|900|João Lucas Melo|1959-05-15|Tocantins|Masculino|2022-05-10|2022-05-16|6|Fundamental|2364.73|1.0|Leitura|Não|Divorciado(a)

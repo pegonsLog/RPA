@@ -1,0 +1,8 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-26|Dr. Rafael|Clínico geral|Comum|410|Julia Monteiro|1957-01-11|Espírito Santo|Feminino|2023-10-13|2023-10-31|18|Superior||3.0|Esportes|Não|Casado(a)
+2023-10-26|Dra. Ana|Ginecologista obstetra|Maternidade|139|Sabrina da Cruz|1957-12-27|Paraná|Feminino|2023-10-19|2023-11-08|20|Médio|2462.22|1.0|Esportes|Sim|Solteiro(a)
+2023-10-26|Dr. Irineu|Ginecologista obstetra|Maternidade|870|Helena Cavalcanti|1959-02-20|Minas Gerais|Feminino|2023-10-17|2023-10-18|1|Superior|4736.99|0.0|Leitura|Sim|Casado(a)
+2023-10-26|Dr. Ramos|Ortopedista|Enfermidade de filhos pequenos|670|Alexandre Gonçalves|1983-03-08|Minas Gerais|Masculino|2023-10-11|2023-10-17|6|Fundamental|6564.85|4.0|Música|Não|Casado(a)
+2023-10-26|Dra. Vanessa|Pediatra|Comum|257|Levi Peixoto|1988-02-17|Acre|Masculino|2023-10-25|2023-11-08|14|Médio|7752.95|2.0|Artes|Não|Divorciado(a)
+2023-10-26|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|782|Kaique Fernandes|1954-12-25|Paraná|Masculino|2023-09-26|2023-10-17|21|Fundamental|2709.48|1.0|Artes|Não|Viúvo(a)
+2023-10-26|Dr. Rafael|Clínico geral|Comum|410|Julia Monteiro|1957-01-11|Espírito Santo|Feminino|2023-10-13|2023-10-31|18|Superior||3.0|Esportes|Não|Casado(a)

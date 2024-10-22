@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-13|Dra. Fernanda|Ginecologista obstetra|Maternidade|550|Mariane Barros|1969-07-04|Sergipe|Feminino|2022-05-09|2022-06-04|26|Médio|8887.01|3.0|Esportes|Sim|Divorciado(a)
+2022-05-13|Dr. Rodrigo|Ortopedista|Enfermidade de filhos pequenos|525|Kaique Costa|2002-09-30|Santa Catarina|Masculino|2022-05-05|2022-05-10|5|Fundamental|6511.99|3.0|Música|Não|Casado(a)

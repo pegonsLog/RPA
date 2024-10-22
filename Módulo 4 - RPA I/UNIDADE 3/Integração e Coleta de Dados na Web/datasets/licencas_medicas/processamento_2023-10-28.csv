@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-28|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|382|Anthony Cardoso|1961-07-14|Goiás|Masculino|2023-10-03|2023-10-28|25|Superior|6680.95||Artes|Não|Casado(a)
+2023-10-28|Dra. Ana|Ginecologista obstetra|Maternidade|267|Sophia Cardoso|1961-12-06|Distrito Federal|Feminino|2023-10-07|2023-10-27|20|Médio|5419.29|0.0|Leitura|Não|Casado(a)
+2023-10-28|Dr. Roberto|Pediatra|Comum|560|Sabrina das Neves|2002-08-15|Rio de Janeiro|Feminino|2023-10-02|2023-10-26|24|Médio|2459.04|1.0|Leitura|Não|Solteiro(a)

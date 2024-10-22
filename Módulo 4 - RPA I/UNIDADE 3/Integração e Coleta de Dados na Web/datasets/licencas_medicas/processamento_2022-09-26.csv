@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-26|Dr. Lucas|Clínico geral|Acidente de trajeto|231|Calebe Santos|1969-06-11|Alagoas|Masculino|2022-09-24|2022-10-17|23|Fundamental|3165.18||Viagens|Não|Viúvo(a)
+2022-09-26|Dr. Lucas|Clínico geral|Acidente de trabalho|250|Alexia Cunha|1969-09-24|Rio Grande do Sul|Feminino|2022-09-22|2022-10-13|21|Superior|5367.66|3.0|Esportes|Sim|Solteiro(a)
+2022-09-26|Dr. Thiago|Ortopedista|Comum|361|Maria Vitória Alves|1962-12-08|Rio Grande do Norte|Feminino|2022-09-24|2022-09-28|4|Superior|9712.37|4.0|Esportes|Não|Divorciado(a)

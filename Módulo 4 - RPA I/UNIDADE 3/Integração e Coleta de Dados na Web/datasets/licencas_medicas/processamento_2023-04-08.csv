@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-04-08|Dr. Gilberto|Ginecologista obstetra|Maternidade|466|Lavínia Peixoto|1980-03-04|Santa Catarina|Feminino|2023-04-01|2023-04-21|20|Médio|1619.0|1.0|Leitura|Não|Divorciado(a)
+2023-04-08|Dra. Ana|Ginecologista obstetra|Maternidade|614|Sophia Ferreira|2002-12-25|Sergipe|Feminino|2023-03-28|2023-04-03|6|Médio||4.0|Esportes|Não|Divorciado(a)
+2023-04-08|Dr. Eduardo|Ortopedista|Comum|81|Mirella Nascimento|1962-04-28|Paraíba|Feminino|2023-04-05|2023-04-09|4|Médio|6826.59|3.0|Leitura|Não|Casado(a)

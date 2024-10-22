@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-29|Dr. Pedro|Clínico geral|Acidente de trajeto|48|Benício Melo|2003-03-31|Bahia|Masculino|2022-10-22|2022-11-10|19|Superior|2582.08|4.0|Esportes|Sim|Casado(a)
+2022-10-29|Dra. Laura|Pediatra|Comum|591|Luiz Henrique das Neves|1998-10-11|Espírito Santo|Masculino|2022-10-11|2022-10-20|9|Fundamental|9292.58|4.0|Viagens|Sim|Viúvo(a)
+2022-10-29|Dr. Ricardo|Traumatologista|Comum|565|Brenda da Rocha|1983-09-29|Minas Gerais|Feminino|2022-10-22|2022-11-21|30|Superior|1672.47|1.0|Viagens|Não|Viúvo(a)
+2022-10-29|Dra. Laura|Pediatra|Comum|591|Luiz Henrique das Neves|1998-10-11|Espírito Santo|Masculino|2022-10-11|2022-10-20|9|Fundamental|9292.58|4.0|Viagens|Sim|Viúvo(a)

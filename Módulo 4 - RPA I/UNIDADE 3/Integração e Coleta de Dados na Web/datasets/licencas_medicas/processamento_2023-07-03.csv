@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-03|Dr. Pedro|Clínico geral|Enfermidade de filhos pequenos|112|Lucca Ramos|1977-11-11|Paraná|Masculino|2023-06-19|2023-06-25|6|Médio|9501.73|4.0|Viagens|Sim|Solteiro(a)
+2023-07-03|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|341|Emanuel da Rocha|2002-01-18|Roraima|Masculino|2023-06-06|2023-06-24|18|Fundamental|6194.61|0.0|Viagens|Não|Viúvo(a)
+2023-07-03|Dr. Roberto|Pediatra|Comum|18|Sarah Nunes|2000-02-16|Pará|Feminino|2023-07-03|2023-07-24|21|Fundamental|2966.28|4.0|Viagens|Sim|Viúvo(a)

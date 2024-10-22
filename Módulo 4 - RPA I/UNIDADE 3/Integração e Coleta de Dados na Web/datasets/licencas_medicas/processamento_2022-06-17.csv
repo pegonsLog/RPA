@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-06-17|Dr. Gustavo|Clínico geral|Comum|688|Leonardo Vieira|1958-07-27|Paraíba|Masculino|2022-06-09|2022-06-22|13|Médio|3612.51|0.0|Leitura|Não|Solteiro(a)
+2022-06-17|Dr. Rodrigo|Ortopedista|Comum|471|Letícia Mendes|1981-09-14|Rio Grande do Norte|Feminino|2022-05-20|2022-05-30|10|Médio|7340.86|1.0|Viagens|Não|Casado(a)
+2022-06-17|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|254|Bernardo Farias|1987-04-22|Rio Grande do Sul|Masculino|2022-06-16|2022-07-16|30|Fundamental|7171.58|4.0|Viagens|Não|Casado(a)
+2022-06-17|Dra. Daniele|Traumatologista|Comum|694|Laura Vieira|1964-04-03|São Paulo|Feminino|2022-05-26|2022-06-13|18|Superior|7508.43|4.0|Viagens|Sim|Solteiro(a)
+2022-06-17|Dra. Daniele|Traumatologista|Comum|694|Laura Vieira|1964-04-03|São Paulo|Feminino|2022-05-26|2022-06-13|18|Superior|7508.43|4.0|Viagens|Sim|Solteiro(a)

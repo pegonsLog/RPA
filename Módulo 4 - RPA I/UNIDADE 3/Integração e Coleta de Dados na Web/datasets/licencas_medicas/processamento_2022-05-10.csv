@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-10|Dr. Eduardo|Ortopedista|Comum|199|Ana Lívia Rezende|1964-07-18|Goiás|Feminino|2022-05-04|2022-05-07|3|Fundamental|1681.71|4.0|Esportes|Sim|Solteiro(a)

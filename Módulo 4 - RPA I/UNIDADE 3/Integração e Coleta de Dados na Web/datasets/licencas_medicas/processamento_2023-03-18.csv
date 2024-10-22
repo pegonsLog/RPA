@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-18|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|908|Rafaela Castro|1965-08-26|Paraná|Feminino|2023-02-25|2023-03-18|21|Superior|7805.19|4.0|Artes|Não|Solteiro(a)
+2023-03-18|Dr. Ricardo|Traumatologista|Comum|564|Daniel Porto|1976-04-20|Rio Grande do Sul|Masculino|2023-02-21|2023-03-06|13|Superior|7336.98|2.0|Música|Não|Divorciado(a)

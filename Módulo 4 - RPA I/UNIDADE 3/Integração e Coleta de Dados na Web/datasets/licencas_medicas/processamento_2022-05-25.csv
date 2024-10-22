@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-25|Dr. Rafael|Clínico geral|Acidente de trabalho|935|Milena Porto|1984-12-18|Piauí|Feminino|2022-05-20|2022-06-15|26|Médio|1039.72|2.0|Música|Não|Viúvo(a)
+2022-05-25|Dr. Gilberto|Ginecologista obstetra|Maternidade|180|Carolina Costela|1980-01-11|Mato Grosso|Feminino|2022-04-26|2022-05-01|5|Fundamental|1788.07|4.0|Artes|Sim|Viúvo(a)

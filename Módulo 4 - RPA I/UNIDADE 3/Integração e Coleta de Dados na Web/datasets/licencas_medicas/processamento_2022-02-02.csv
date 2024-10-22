@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-02-02|Dr. Eduardo|Ortopedista|Acidente de trabalho|294|Vitor Hugo Araújo|1980-07-05|Paraná|Masculino|2022-02-02|2022-02-26|24|Fundamental|5368.98|4.0|Artes|Sim|Viúvo(a)

@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-04|Dra. Ana|Ginecologista obstetra|Maternidade|378|Vitória da Costa|1983-10-10|Goiás|Feminino|2022-09-20|2022-10-18|28|Médio|2157.04|4.0|Esportes|Sim|Viúvo(a)
+2022-10-04|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|248|Vitor Mendes|1991-11-17|Paraná|Masculino|2022-10-02|2022-10-25|23|Fundamental|8645.72|3.0|Leitura|Sim|Viúvo(a)
+2022-10-04|Dra. Vanessa|Pediatra|Comum|626|João Pedro Correia|1965-08-02|Ceará|Masculino|2022-09-18|2022-10-11|23|Fundamental|3822.13|3.0|Artes|Sim|Casado(a)

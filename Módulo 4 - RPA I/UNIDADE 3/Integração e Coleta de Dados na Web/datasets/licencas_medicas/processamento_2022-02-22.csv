@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-02-22|Dr. Thiago|Ortopedista|Enfermidade de filhos pequenos|129|Sabrina Novaes|1979-07-12|Rondônia|Feminino|2022-01-23|2022-01-28|5|Superior||1.0|Viagens|Sim|Solteiro(a)
+2022-02-22|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|88|Bruno Melo|2003-12-29|Sergipe|Masculino|2022-02-10|2022-03-08|26|Fundamental|1282.48|3.0|Esportes|Não|Casado(a)

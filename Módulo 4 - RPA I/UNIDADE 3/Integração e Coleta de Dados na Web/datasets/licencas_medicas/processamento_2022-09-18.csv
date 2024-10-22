@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-18|Dr. Rafael|Clínico geral|Enfermidade de filhos pequenos|134|Emanuelly Porto|1984-05-01|Alagoas|Feminino|2022-08-27|2022-09-12|16|Médio|9284.52|1.0|Leitura|Sim|Casado(a)
+2022-09-18|Dra. Juliana|Ginecologista obstetra|Maternidade|201|Bruna Silveira|1985-02-09|Tocantins|Feminino|2022-08-24|2022-09-04|11|Médio|8233.68|0.0|Leitura|Sim|Viúvo(a)

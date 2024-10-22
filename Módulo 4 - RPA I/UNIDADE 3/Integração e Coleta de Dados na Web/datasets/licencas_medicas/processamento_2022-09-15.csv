@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-15|Dra. Laura|Pediatra|Comum|938|Kaique da Luz|1956-07-18|Amapá|Masculino|2022-09-11|2022-09-16|5|Fundamental|7094.37|4.0|Leitura|Não|Solteiro(a)
+2022-09-15|Dr. Marcos|Traumatologista|Acidente de trabalho|652|Leonardo Almeida|1982-08-16|Acre|Masculino|2022-08-17|2022-09-08|22|Fundamental|5204.14|4.0|Artes|Não|Divorciado(a)
+2022-09-15|Dra. Daniele|Traumatologista|Comum|822|João Guilherme da Mota|2001-06-10|Minas Gerais|Masculino|2022-08-16|2022-08-17|1|Médio|9231.59|1.0|Viagens|Não|Viúvo(a)

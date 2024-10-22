@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-14|Dr. Irineu|Ginecologista obstetra|Maternidade|903|Sophie Moraes|1980-08-29|Maranhão|Feminino|2022-04-24|2022-05-14|20|Fundamental|7151.06|4.0|Música|Não|Viúvo(a)
+2022-05-14|Dr. Felipe|Ortopedista|Comum|995|Ana Laura Castro|2002-09-23|Piauí|Feminino|2022-05-11|2022-05-28|17|Superior|1212.52|4.0|Esportes|Não|Viúvo(a)

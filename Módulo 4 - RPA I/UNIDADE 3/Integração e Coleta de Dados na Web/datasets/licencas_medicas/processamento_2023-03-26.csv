@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-26|Dr. Lucas|Clínico geral|Comum|11|Davi da Mota|1956-09-27|Tocantins|Masculino|2023-03-09|2023-03-30|21|Fundamental|6680.35|2.0|Artes|Não|Viúvo(a)
+2023-03-26|Dra. Fernanda|Ginecologista obstetra|Maternidade|744|Giovanna da Rosa|2003-02-05|Sergipe|Feminino|2023-03-03|2023-03-14|11|Médio||1.0|Artes|Não|Divorciado(a)
+2023-03-26|Dr. Vinicius|Traumatologista|Acidente de trajeto|154|Juliana Ribeiro|1973-10-08|Goiás|Feminino|2023-03-23|2023-03-30|7|Fundamental|6529.71|1.0|Viagens|Não|Viúvo(a)

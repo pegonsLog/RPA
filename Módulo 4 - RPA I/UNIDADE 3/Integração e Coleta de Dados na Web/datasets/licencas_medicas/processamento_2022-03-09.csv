@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-03-09|Dr. Pedro|Clínico geral|Comum|143|Alexandre Fogaça|1995-11-22|Bahia|Masculino|2022-03-06|2022-03-16|10|Superior|2920.9|4.0|Música|Sim|Viúvo(a)

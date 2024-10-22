@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-09|Dr. Ramos|Ortopedista|Enfermidade de filhos pequenos|337|Maria Eduarda Lima|1988-09-17|Piauí|Feminino|2022-09-23|2022-10-13|20|Médio|8174.2|1.0|Viagens|Sim|Solteiro(a)
+2022-10-09|Dra. Daniele|Traumatologista|Comum|677|Alana Cardoso|1967-03-06|Goiás|Feminino|2022-09-18|2022-09-29|11|Médio|7867.07|1.0|Artes|Não|Solteiro(a)
+2022-10-09|Dra. Daniele|Traumatologista|Comum|677|Alana Cardoso|1967-03-06|Goiás|Feminino|2022-09-18|2022-09-29|11|Médio|7867.07|1.0|Artes|Não|Solteiro(a)

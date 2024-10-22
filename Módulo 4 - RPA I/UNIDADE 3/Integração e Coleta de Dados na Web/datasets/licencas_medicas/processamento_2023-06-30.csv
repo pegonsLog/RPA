@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-06-30|Dr. Lucas|Clínico geral|Acidente de trabalho|443|Clara Teixeira|1960-10-01|Minas Gerais|Feminino|2023-06-09|2023-06-13|4|Médio|4577.2|3.0|Viagens|Sim|Casado(a)
+2023-06-30|Dra. Vanessa|Pediatra|Enfermidade de filhos pequenos|288|Enzo Lopes|1976-06-27|Distrito Federal|Masculino|2023-06-02|2023-06-28|26|Fundamental|2235.68|2.0|Música|Sim|Casado(a)
+2023-06-30|Dra. Vanessa|Pediatra|Enfermidade de filhos pequenos|531|Eduardo Novaes|1982-07-03|Alagoas|Masculino|2023-06-01|2023-06-28|27|Fundamental|6288.82|0.0|Esportes|Sim|Divorciado(a)

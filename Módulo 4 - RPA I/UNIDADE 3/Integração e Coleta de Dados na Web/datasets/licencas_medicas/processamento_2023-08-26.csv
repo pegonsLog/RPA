@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-26|Dr. Gustavo|Clínico geral|Comum|506|Davi Luiz Cardoso|1996-03-10|Amapá|Masculino|2023-08-03|2023-08-27|24|Superior|1241.39|4.0|Leitura|Não|Casado(a)
+2023-08-26|Dr. Eduardo|Ortopedista|Acidente de trajeto|934|Davi da Cunha|1952-11-01|Rio Grande do Norte|Masculino|2023-08-16|2023-09-04|19|Médio|7908.94|0.0|Música|Não|Viúvo(a)
+2023-08-26|Dr. Marcos|Traumatologista|Enfermidade de filhos pequenos|845|Henrique Ferreira|1973-02-01|Paraná|Masculino|2023-08-26|2023-09-18|23|Médio|1213.19|0.0|Música|Não|Viúvo(a)

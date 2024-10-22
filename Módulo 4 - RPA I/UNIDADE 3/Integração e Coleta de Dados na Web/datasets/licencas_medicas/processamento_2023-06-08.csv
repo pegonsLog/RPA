@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-06-08|Dr. Gilberto|Ginecologista obstetra|Maternidade|170|Juliana Farias|1984-12-27|Paraná|Feminino|2023-05-14|2023-06-04|21|Médio|2092.1|2.0|Artes|Sim|Casado(a)
+2023-06-08|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|681|Diogo Novaes|1994-01-28|Piauí|Masculino|2023-05-25|2023-06-23|29|Médio|7620.81|4.0|Artes|Não|Divorciado(a)
+2023-06-08|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|681|Diogo Novaes|1994-01-28|Piauí|Masculino|2023-05-25|2023-06-23|29|Médio|7620.81|4.0|Artes|Não|Divorciado(a)

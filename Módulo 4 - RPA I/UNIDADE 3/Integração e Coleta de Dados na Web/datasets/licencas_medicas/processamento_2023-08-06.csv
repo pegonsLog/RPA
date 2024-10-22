@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-06|Dr. Pedro|Clínico geral|Acidente de trabalho|810|Davi Luiz Dias|1979-01-18|Goiás|Masculino|2023-07-21|2023-07-25|4|Superior|8783.74|1.0|Esportes|Não|Solteiro(a)
+2023-08-06|Dra. Ana|Ginecologista obstetra|Maternidade|192|Sophia da Luz|1957-08-06|Maranhão|Feminino|2023-08-01|2023-08-17|16|Médio|6519.08|0.0|Música|Não|Divorciado(a)
+2023-08-06|Dra. Juliana|Ginecologista obstetra|Comum|708|Lívia Souza|1980-04-07|Paraíba|Feminino|2023-08-03|2023-08-07|4|Superior|9560.19|3.0|Leitura|Sim|Solteiro(a)

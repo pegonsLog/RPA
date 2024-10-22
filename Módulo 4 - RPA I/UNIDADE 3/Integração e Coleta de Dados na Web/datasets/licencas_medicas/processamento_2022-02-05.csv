@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-02-05|Dr. Pedro|Clínico geral|Comum|106|Emanuel Peixoto|1953-07-25|Acre|Masculino|2022-01-17|2022-01-24|7|Superior|4742.56|4.0|Leitura|Sim|Divorciado(a)
+2022-02-05|Dra. Laura|Pediatra|Comum|412|Lívia Viana|1991-12-19|Amazonas|Feminino|2022-01-23|2022-02-21|29|Fundamental|8993.68|1.0|Artes|Sim|Solteiro(a)

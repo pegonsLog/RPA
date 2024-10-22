@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-01-08|Dr. Rafael|Clínico geral|Comum|399|Bryan Costa|1991-11-07|Mato Grosso|Masculino|2023-01-08|2023-01-22|14|Fundamental|4593.64|0.0|Viagens|Sim|Viúvo(a)
+2023-01-08|Dra. Ana|Ginecologista obstetra|Comum|556|Lara Souza|1967-05-17|Paraná|Feminino|2022-12-11|2022-12-27|16|Fundamental|6189.79|2.0|Esportes|Sim|Divorciado(a)
+2023-01-08|Dr. Eduardo|Ortopedista|Acidente de trajeto|124|Sarah Gomes|1975-04-21|Ceará|Feminino|2022-12-19|2022-12-31|12|Fundamental|9219.53|0.0|Esportes|Não|Viúvo(a)
+2023-01-08|Dr. Rafael|Clínico geral|Comum|399|Bryan Costa|1991-11-07|Mato Grosso|Masculino|2023-01-08|2023-01-22|14|Fundamental|4593.64|0.0|Viagens|Sim|Viúvo(a)

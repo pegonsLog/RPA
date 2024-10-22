@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-03-01|Dr. Ramos|Ortopedista|Enfermidade de filhos pequenos|238|Luiz Henrique Araújo|1956-03-26|Paraíba|Masculino|2022-02-18|2022-02-28|10|Superior|3478.68|0.0|Música|Sim|Divorciado(a)
+2022-03-01|Dr. Lessa|Pediatra|Comum|186|Evelyn Campos|1963-03-31|Acre|Feminino|2022-02-06|2022-02-24|18|Fundamental|4629.71|4.0|Esportes|Não|Casado(a)
+2022-03-01|Dr. Vinicius|Traumatologista|Comum|742|Nicole Rezende|1958-09-10|Bahia|Feminino|2022-02-06|2022-02-23|17|Médio|4604.72|0.0|Esportes|Sim|Casado(a)
+2022-03-01|Dr. Ricardo|Traumatologista|Comum|993|Natália da Conceição|1966-08-31|Amapá|Feminino|2022-02-08|2022-03-10|30|Fundamental|5789.05|1.0|Viagens|Sim|Solteiro(a)
+2022-03-01|Dr. Vinicius|Traumatologista|Comum|742|Nicole Rezende|1958-09-10|Bahia|Feminino|2022-02-06|2022-02-23|17|Médio|4604.72|0.0|Esportes|Sim|Casado(a)

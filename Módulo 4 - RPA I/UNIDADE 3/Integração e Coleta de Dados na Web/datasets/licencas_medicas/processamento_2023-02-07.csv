@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-02-07|Dr. Rafael|Clínico geral|Acidente de trajeto|229|Murilo da Mata|1963-08-03|Ceará|Masculino|2023-01-28|2023-02-04|7|Superior|8405.14|1.0|Viagens|Sim|Divorciado(a)
+2023-02-07|Dr. Irineu|Ginecologista obstetra|Maternidade|641|Yasmin Cardoso|1955-01-22|Pernambuco|Feminino|2023-01-14|2023-02-12|29|Médio|9104.3|1.0|Artes|Não|Casado(a)

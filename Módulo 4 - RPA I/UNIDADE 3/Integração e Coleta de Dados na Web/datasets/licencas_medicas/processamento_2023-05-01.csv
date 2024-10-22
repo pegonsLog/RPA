@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-05-01|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|7|Marina da Rocha|1978-01-06|Rio Grande do Norte|Feminino|2023-04-02|2023-05-01|29|Fundamental|4020.64|1.0|Leitura|Não|Viúvo(a)
+2023-05-01|Dr. Marcos|Traumatologista|Acidente de trajeto|354|Anthony da Cunha|1960-06-25|Paraná|Masculino|2023-04-20|2023-04-22|2|Fundamental|4693.67|2.0|Artes|Sim|Divorciado(a)

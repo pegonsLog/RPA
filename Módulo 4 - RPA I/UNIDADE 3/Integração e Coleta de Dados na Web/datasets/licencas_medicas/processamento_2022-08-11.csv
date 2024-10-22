@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-08-11|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|189|Matheus Cardoso|1993-10-01|Pará|Masculino|2022-07-26|2022-08-10|15|Superior|8774.35|0.0|Artes|Não|Viúvo(a)
+2022-08-11|Dr. Marcelo|Clínico geral|Comum|558|Vinicius Correia|2001-12-31|Mato Grosso do Sul|Masculino|2022-08-05|2022-08-09|4|Médio|2432.6|2.0|Artes|Sim|Casado(a)
+2022-08-11|Dra. Laura|Pediatra|Comum|304|Francisco Viana|1967-07-25|Ceará|Masculino|2022-07-28|2022-07-29|1|Superior|9403.12|3.0|Esportes|Não|Casado(a)

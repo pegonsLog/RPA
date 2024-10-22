@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-15|Dr. Lucas|Clínico geral|Acidente de trajeto|233|Brenda Martins|1971-10-26|Tocantins|Feminino|2023-07-13|2023-08-07|25|Superior|6747.96|3.0|Música|Não|Viúvo(a)
+2023-07-15|Dr. Ramos|Ortopedista|Acidente de trabalho|706|Olivia Alves|1980-10-16|Paraíba|Feminino|2023-06-28|2023-07-16|18|Médio|4335.2|0.0|Viagens|Não|Casado(a)
+2023-07-15|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|639|Maria Mendes|1969-09-18|Distrito Federal|Feminino|2023-06-21|2023-06-30|9|Superior|5787.7|4.0|Artes|Sim|Viúvo(a)

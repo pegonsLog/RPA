@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-07-19|Dra. Fernanda|Ginecologista obstetra|Comum|114|Ana da Mota|1953-02-10|Santa Catarina|Feminino|2022-07-05|2022-07-23|18|Superior|1203.15|3.0|Música|Sim|Casado(a)
+2022-07-19|Dr. Eduardo|Ortopedista|Comum|331|Clara das Neves|1973-08-17|Alagoas|Feminino|2022-07-18|2022-08-13|26|Médio|4362.24|2.0|Esportes|Não|Solteiro(a)
+2022-07-19|Dr. Ricardo|Traumatologista|Enfermidade de filhos pequenos|527|Luiz Henrique Silveira|1976-06-14|Rio de Janeiro|Masculino|2022-07-17|2022-07-29|12|Superior|5861.5|2.0|Esportes|Não|Casado(a)

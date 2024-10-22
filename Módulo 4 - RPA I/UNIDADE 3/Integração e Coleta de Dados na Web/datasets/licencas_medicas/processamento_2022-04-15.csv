@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-04-15|Dr. Felipe|Ortopedista|Acidente de trabalho|418|Emilly Cardoso|1963-07-05|Espírito Santo|Feminino|2022-04-10|2022-04-12|2|Médio|1455.82|1.0|Esportes|Não|Divorciado(a)
+2022-04-15|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|65|Rodrigo Cavalcanti|1984-01-07|Piauí|Masculino|2022-04-06|2022-04-07|1|Médio|3536.38|4.0|Música|Não|Divorciado(a)

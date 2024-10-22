@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-06-03|Dra. Ana|Ginecologista obstetra|Comum|188|Juliana da Mata|1963-10-30|São Paulo|Feminino|2023-05-15|2023-05-29|14|Superior|4427.44|2.0|Esportes|Sim|Casado(a)
+2023-06-03|Dr. Irineu|Ginecologista obstetra|Comum|735|Ana Vitória Porto|1953-12-10|Paraíba|Feminino|2023-05-27|2023-06-26|30|Superior|1737.04|1.0|Música|Sim|Divorciado(a)
+2023-06-03|Dr. Ricardo|Traumatologista|Acidente de trajeto|985|Júlia Vieira|1961-02-16|Paraíba|Feminino|2023-06-01|2023-06-28|27|Fundamental|5831.13|4.0|Leitura|Sim|Solteiro(a)

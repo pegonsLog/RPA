@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-02-24|Dr. Felipe|Ortopedista|Acidente de trajeto|409|Gabriel Pires|1962-11-06|Piauí|Masculino|2023-02-11|2023-02-19|8|Médio|5394.26|1.0|Viagens|Sim|Solteiro(a)
+2023-02-24|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|92|Amanda da Rocha|1984-03-22|Maranhão|Feminino|2023-02-10|2023-02-21|11|Médio|4196.67|0.0|Viagens|Não|Solteiro(a)

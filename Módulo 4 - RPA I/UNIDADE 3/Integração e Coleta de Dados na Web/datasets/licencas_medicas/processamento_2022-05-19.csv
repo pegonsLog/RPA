@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-19|Dr. Rodrigo|Ortopedista|Acidente de trajeto|349|Eduardo Fogaça|1957-12-25|Rondônia|Masculino|2022-04-25|2022-05-02|7|Médio|4945.42|0.0|Leitura|Não|Divorciado(a)
+2022-05-19|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|66|Luiz Fernando Silveira|1981-03-06|Mato Grosso do Sul|Masculino|2022-05-04|2022-06-01|28|Fundamental|8503.27|0.0|Artes|Sim|Solteiro(a)
+2022-05-19|Dr. Lessa|Pediatra|Comum|963|Raul Pires|1952-07-15|Paraná|Masculino|2022-05-10|2022-06-09|30|Médio|1984.45|4.0|Música|Sim|Solteiro(a)

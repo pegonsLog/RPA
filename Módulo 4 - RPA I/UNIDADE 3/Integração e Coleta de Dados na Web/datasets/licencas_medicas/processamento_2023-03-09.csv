@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-09|Dr. Rafael|Clínico geral|Enfermidade de filhos pequenos|646|Maria Sophia Oliveira|2001-03-12|Ceará|Feminino|2023-02-11|2023-02-14|3|Fundamental|4340.21|3.0|Música|Sim|Divorciado(a)
+2023-03-09|Dr. Rafael|Clínico geral|Acidente de trajeto|725|Pedro Lucas Cardoso|1992-07-12|Rio Grande do Sul|Masculino|2023-02-18|2023-03-04|14|Superior|3123.51|4.0|Esportes|Sim|Casado(a)
+2023-03-09|Dr. Gilberto|Ginecologista obstetra|Maternidade|293|Ana Luiza Gonçalves|1967-05-26|Maranhão|Feminino|2023-02-09|2023-02-21|12|Superior|1402.8|1.0|Leitura|Sim|Divorciado(a)

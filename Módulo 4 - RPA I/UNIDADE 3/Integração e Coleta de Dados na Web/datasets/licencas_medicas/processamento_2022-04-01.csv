@@ -1,0 +1,7 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-04-01|Dr. Ramos|Ortopedista|Enfermidade de filhos pequenos|692|Maria Vitória da Mota|1986-04-12|Mato Grosso|Feminino|2022-03-04|2022-03-26|22|Médio|6964.94|0.0|Esportes|Não|Divorciado(a)
+2022-04-01|Dra. Carolina|Pediatra|Comum|282|Mariana Viana|1958-12-12|Rio Grande do Sul|Feminino|2022-04-01|2022-04-03|2|Médio|5012.48|1.0|Leitura|Não|Viúvo(a)
+2022-04-01|Dr. Roberto|Pediatra|Comum|585|Ana Júlia Farias|1993-10-17|Ceará|Feminino|2022-03-28|2022-04-17|20|Superior|4084.11|0.0|Artes|Sim|Divorciado(a)
+2022-04-01|Dra. Vanessa|Pediatra|Comum|734|João Guilherme Alves|1977-05-15|Amapá|Masculino|2022-03-22|2022-04-12|21|Superior|7387.4|4.0|Artes|Sim|Casado(a)
+2022-04-01|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|419|Marcelo Araújo|1957-03-03|Sergipe|Masculino|2022-03-28|2022-04-09|12|Fundamental|4522.47|2.0|Leitura|Não|Viúvo(a)
+2022-04-01|Dr. Roberto|Pediatra|Comum|585|Ana Júlia Farias|1993-10-17|Ceará|Feminino|2022-03-28|2022-04-17|20|Superior|4084.11|0.0|Artes|Sim|Divorciado(a)

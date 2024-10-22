@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-14|Dr. Thiago|Ortopedista|Comum|242|João Felipe da Rosa|1990-08-22|Mato Grosso do Sul|Masculino|2022-12-09|2022-12-16|7|Fundamental|5022.84|0.0|Esportes|Não|Divorciado(a)

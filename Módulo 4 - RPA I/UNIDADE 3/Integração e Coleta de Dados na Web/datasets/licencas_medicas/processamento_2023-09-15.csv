@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-09-15|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|909|Cauã Lima|1977-08-08|Rio Grande do Norte|Masculino|2023-08-27|2023-09-16|20|Médio|1174.87|1.0|Viagens|Não|Solteiro(a)
+2023-09-15|Dra. Carolina|Pediatra|Comum|620|Eduardo Melo|1965-11-17|Espírito Santo|Masculino|2023-08-18|2023-09-17|30|Fundamental|4711.05|3.0|Viagens|Sim|Viúvo(a)
+2023-09-15|Dra. Carolina|Pediatra|Comum|620|Eduardo Melo|1965-11-17|Espírito Santo|Masculino|2023-08-18|2023-09-17|30|Fundamental|4711.05|3.0|Viagens|Sim|Viúvo(a)

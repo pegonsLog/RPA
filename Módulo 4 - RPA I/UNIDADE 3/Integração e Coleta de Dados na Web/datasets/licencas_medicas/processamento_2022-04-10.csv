@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-04-10|Dra. Daniele|Traumatologista|Comum|157|Matheus Lopes|1988-01-15|Acre|Masculino|2022-03-26|2022-04-09|14|Superior|9212.05|1.0|Esportes|Sim|Casado(a)
+2022-04-10|Dr. Ricardo|Traumatologista|Acidente de trabalho|356|Ana Ribeiro|1989-11-18|Bahia|Feminino|2022-04-05|2022-04-07|2|Fundamental|7707.84|2.0|Esportes|Sim|Divorciado(a)
+2022-04-10|Dr. Ricardo|Traumatologista|Enfermidade de filhos pequenos|663|Maria Eduarda Caldeira|1954-11-26|Piauí|Feminino|2022-04-08|2022-04-26|18|Fundamental|6759.83|3.0|Artes|Sim|Divorciado(a)
+2022-04-10|Dr. Marcos|Traumatologista|Comum|901|Alice Lopes|2003-11-19|Alagoas|Feminino|2022-03-19|2022-04-09|21|Médio|6088.93|1.0|Leitura|Sim|Divorciado(a)

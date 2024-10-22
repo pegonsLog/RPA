@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-07-11|Dr. Marcos|Traumatologista|Acidente de trajeto|733|Daniel Fernandes|1952-09-23|Mato Grosso do Sul|Masculino|2022-07-04|2022-07-09|5|Superior|7366.6|2.0|Música|Sim|Casado(a)

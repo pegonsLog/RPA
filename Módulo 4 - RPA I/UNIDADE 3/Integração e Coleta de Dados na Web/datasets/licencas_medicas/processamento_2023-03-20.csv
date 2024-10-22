@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-20|Dr. Pedro|Clínico geral|Acidente de trabalho|851|Sofia Gonçalves|2001-01-03|Roraima|Feminino|2023-03-18|2023-04-01|14|Superior|8382.09|3.0|Leitura|Não|Viúvo(a)
+2023-03-20|Dr. Ramos|Ortopedista|Enfermidade de filhos pequenos|145|Maysa Araújo|1955-03-03|Rondônia|Feminino|2023-03-03|2023-03-31|28|Médio|2362.23|4.0|Viagens|Não|Viúvo(a)
+2023-03-20|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|142|Thiago da Cunha|1970-03-28|Espírito Santo|Masculino|2023-03-12|2023-03-15|3|Superior|3353.81|3.0|Artes|Não|Viúvo(a)

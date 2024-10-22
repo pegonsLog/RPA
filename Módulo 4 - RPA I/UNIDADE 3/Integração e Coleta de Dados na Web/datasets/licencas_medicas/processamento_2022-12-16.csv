@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-16|Dr. Irineu|Ginecologista obstetra|Maternidade|914|Letícia Pinto|1971-05-28|Mato Grosso|Feminino|2022-12-13|2022-12-15|2|Médio|8438.74|3.0|Esportes|Não|Viúvo(a)
+2022-12-16|Dr. Eduardo|Ortopedista|Comum|784|Fernanda das Neves|1955-08-08|Rio de Janeiro|Feminino|2022-12-02|2022-12-11|9|Médio|4906.94|1.0|Esportes|Sim|Solteiro(a)

@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-11-03|Dr. Marcelo|Clínico geral|Comum|740|Enzo Barbosa|1992-10-18|Mato Grosso do Sul|Masculino|2023-10-23|2023-11-17|25|Fundamental|4463.14|3.0|Música|Sim|Solteiro(a)
+2023-11-03|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|783|Carolina Gomes|1976-11-14|São Paulo|Feminino|2023-10-04|2023-10-21|17|Superior|1133.48|1.0|Artes|Não|Solteiro(a)
+2023-11-03|Dra. Daniele|Traumatologista|Acidente de trabalho|943|Ana Carolina da Luz|1999-05-16|Roraima|Feminino|2023-10-10|2023-10-20|10|Superior|6513.18|0.0|Artes|Sim|Solteiro(a)

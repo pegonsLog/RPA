@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-24|Dr. Rafael|Clínico geral|Acidente de trabalho|210|Luna Melo|1966-10-01|Pernambuco|Feminino|2023-03-15|2023-04-10|26|Fundamental|3207.59|0.0|Esportes|Não|Divorciado(a)
+2023-03-24|Dra. Juliana|Ginecologista obstetra|Maternidade|945|Evelyn Pires|1986-11-11|Rio Grande do Sul|Feminino|2023-03-06|2023-03-17|11|Fundamental|4226.18|0.0|Música|Não|Casado(a)
+2023-03-24|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|147|Diogo Duarte|1959-03-02|Paraíba|Masculino|2023-02-28|2023-03-15|15|Médio|3737.45|3.0|Leitura|Sim|Viúvo(a)

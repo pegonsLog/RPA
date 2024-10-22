@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-04-29|Dr. Pedro|Clínico geral|Comum|450|Isadora Pereira|1976-04-06|Minas Gerais|Feminino|2023-04-24|2023-05-23|29|Médio|2100.87|3.0|Esportes|Não|Viúvo(a)
+2023-04-29|Dr. Ricardo|Traumatologista|Acidente de trajeto|42|Cauê das Neves|1955-07-17|Acre|Masculino|2023-04-04|2023-04-21|17|Médio|2739.06|0.0|Leitura|Não|Divorciado(a)
+2023-04-29|Dra. Daniele|Traumatologista|Acidente de trabalho|676|Sarah Novaes|2004-04-21|Sergipe|Feminino|2023-04-04|2023-04-13|9|Superior|4897.82|4.0|Artes|Sim|Viúvo(a)
+2023-04-29|Dra. Daniele|Traumatologista|Acidente de trabalho|676|Sarah Novaes|2004-04-21|Sergipe|Feminino|2023-04-04|2023-04-13|9|Superior|4897.82|4.0|Artes|Sim|Viúvo(a)

@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-16|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|79|Letícia das Neves|1958-04-07|Rio Grande do Sul|Feminino|2022-10-06|2022-10-31|25|Médio|4977.19|3.0|Viagens|Sim|Casado(a)
+2022-10-16|Dr. Gustavo|Clínico geral|Comum|737|Ian Pires|1952-12-22|Tocantins|Masculino|2022-10-11|2022-11-10|30|Fundamental|6839.11|2.0|Artes|Sim|Divorciado(a)
+2022-10-16|Dr. Thiago|Ortopedista|Enfermidade de filhos pequenos|218|Bruna Correia|1975-06-22|Rio Grande do Norte|Feminino|2022-10-09|2022-10-22|13|Médio|6919.02|2.0|Música|Não|Viúvo(a)
+2022-10-16|Dr. André|Traumatologista|Acidente de trajeto|435|Guilherme Caldeira|1977-08-13|Roraima|Masculino|2022-10-06|2022-11-02|27|Superior|9710.09|1.0|Leitura|Não|Solteiro(a)

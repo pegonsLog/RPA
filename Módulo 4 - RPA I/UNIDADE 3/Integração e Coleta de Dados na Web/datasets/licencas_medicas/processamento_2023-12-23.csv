@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-23|Dr. Lucas|Clínico geral|Acidente de trajeto|755|Igor Mendes|2000-11-08|Bahia|Masculino|2023-12-08|2023-12-25|17|Fundamental|8679.94|3.0|Música|Não|Casado(a)
+2023-12-23|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|434|Ryan Cardoso|1979-12-09|Mato Grosso|Masculino|2023-12-20|2024-01-17|28|Médio|9478.1|0.0|Esportes|Não|Solteiro(a)
+2023-12-23|Dra. Daniele|Traumatologista|Enfermidade de filhos pequenos|960|Isis Nogueira|1995-11-25|Mato Grosso do Sul|Feminino|2023-12-02|2023-12-18|16|Superior|5910.39|4.0|Artes|Sim|Viúvo(a)

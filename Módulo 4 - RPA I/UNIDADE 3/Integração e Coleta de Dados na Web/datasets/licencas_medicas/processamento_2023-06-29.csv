@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-06-29|Dr. Lucas|Clínico geral|Acidente de trabalho|980|Nicole da Rosa|1962-02-09|Rio Grande do Sul|Feminino|2023-06-26|2023-06-28|2|Superior|8170.43|1.0|Esportes|Sim|Solteiro(a)
+2023-06-29|Dr. Gilberto|Ginecologista obstetra|Maternidade|391|Juliana Duarte|1954-03-10|Mato Grosso|Feminino|2023-06-21|2023-07-01|10|Médio|1738.98|2.0|Música|Sim|Solteiro(a)
+2023-06-29|Dr. Irineu|Ginecologista obstetra|Comum|898|Alana Cunha|2004-06-08|Bahia|Feminino|2023-06-05|2023-06-07|2|Fundamental|2971.08|1.0|Música|Não|Casado(a)
+2023-06-29|Dr. Thiago|Ortopedista|Enfermidade de filhos pequenos|684|Emanuella Rocha|1984-01-12|Distrito Federal|Feminino|2023-06-25|2023-07-10|15|Médio|4224.28|4.0|Viagens|Sim|Divorciado(a)
+2023-06-29|Dra. Daniele|Traumatologista|Acidente de trabalho|228|Gustavo Henrique da Paz|1997-12-03|Piauí|Masculino|2023-06-28|2023-07-04|6|Médio|8000.79|0.0|Viagens|Sim|Solteiro(a)

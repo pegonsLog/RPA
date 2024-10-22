@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-05-22|Dr. Lucas|Clínico geral|Acidente de trajeto|664|Stella Monteiro|1996-10-28|Rondônia|Feminino|2023-05-19|2023-05-28|9|Médio|8319.23|4.0|Viagens|Não|Casado(a)
+2023-05-22|Dr. Rafael|Clínico geral|Enfermidade de filhos pequenos|856|Alice Gonçalves|1983-12-01|Tocantins|Feminino|2023-05-10|2023-05-30|20|Médio|6913.52|0.0|Música|Sim|Viúvo(a)
+2023-05-22|Dr. Felipe|Ortopedista|Enfermidade de filhos pequenos|853|Bruno Novaes|1954-07-30|Espírito Santo|Masculino|2023-05-06|2023-05-18|12|Médio|7220.75|4.0|Artes|Sim|Viúvo(a)

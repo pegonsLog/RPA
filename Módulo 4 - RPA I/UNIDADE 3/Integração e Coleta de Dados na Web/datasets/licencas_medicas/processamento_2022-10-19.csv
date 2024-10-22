@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-19|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|190|Ana Clara Martins|1971-06-13|Acre|Feminino|2022-10-05|2022-10-17|12|Superior|4171.33|0.0|Viagens|Sim|Divorciado(a)
+2022-10-19|Dr. Roberto|Pediatra|Comum|358|Igor Peixoto|1988-09-04|Rondônia|Masculino|2022-10-19|2022-11-16|28|Médio|3980.6|3.0|Esportes|Sim|Divorciado(a)
+2022-10-19|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|416|João Felipe Moura|1960-01-22|Acre|Masculino|2022-10-01|2022-10-18|17|Fundamental|8431.58|1.0|Leitura|Não|Viúvo(a)
+2022-10-19|Dr. Ricardo|Traumatologista|Enfermidade de filhos pequenos|520|Benjamin Silva|1980-09-06|Minas Gerais|Masculino|2022-09-20|2022-10-15|25|Superior|6871.22|1.0|Viagens|Não|Solteiro(a)

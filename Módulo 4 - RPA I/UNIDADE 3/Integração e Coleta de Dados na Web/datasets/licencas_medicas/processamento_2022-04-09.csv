@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-04-09|Dr. Rodrigo|Ortopedista|Comum|562|Miguel Carvalho|1977-02-16|Amapá|Masculino|2022-03-28|2022-04-21|24|Médio|9265.84|3.0|Leitura|Sim|Viúvo(a)
+2022-04-09|Dra. Laura|Pediatra|Enfermidade de filhos pequenos|362|Fernando Monteiro|1973-11-11|Mato Grosso do Sul|Masculino|2022-03-20|2022-03-31|11|Fundamental|9329.02|1.0|Música|Sim|Divorciado(a)
+2022-04-09|Dr. Vinicius|Traumatologista|Enfermidade de filhos pequenos|986|Alícia Ribeiro|1997-05-19|Mato Grosso|Feminino|2022-04-08|2022-04-21|13|Fundamental|7839.23|0.0|Música|Não|Solteiro(a)

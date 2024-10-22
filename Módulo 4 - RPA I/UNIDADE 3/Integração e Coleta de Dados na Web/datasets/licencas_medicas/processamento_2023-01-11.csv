@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-01-11|Dr. Lucas|Clínico geral|Comum|353|André Dias|1979-11-25|Rio de Janeiro|Masculino|2023-01-06|2023-02-01|26|Superior|7979.43|2.0|Esportes|Não|Viúvo(a)
+2023-01-11|Dra. Carolina|Pediatra|Comum|718|Leandro Fogaça|1981-05-23|Amapá|Masculino|2022-12-28|2023-01-06|9|Superior|9931.47|3.0|Esportes|Não|Casado(a)

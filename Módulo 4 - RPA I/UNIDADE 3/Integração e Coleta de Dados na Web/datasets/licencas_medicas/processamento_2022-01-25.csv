@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-01-25|Dr. Irineu|Ginecologista obstetra|Maternidade|491|Clarice Vieira|1963-08-28|Pará|Feminino|2022-01-24|2022-01-29|5|Médio|1755.43|3.0|Esportes|Não|Viúvo(a)
+2022-01-25|Dr. Ramos|Ortopedista|Acidente de trajeto|388|André da Rosa|1994-03-31|Minas Gerais|Masculino|2022-01-18|2022-02-09|22|Médio|5751.22|4.0|Esportes|Não|Viúvo(a)
+2022-01-25|Dr. Roberto|Pediatra|Comum|290|Juliana Barros|1958-02-05|Roraima|Feminino|2022-01-02|2022-01-07|5|Médio|8018.69|4.0|Artes|Não|Divorciado(a)

@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-11-12|Dr. Rafael|Clínico geral|Comum|318|Luiz Miguel da Cruz|1986-09-27|Espírito Santo|Masculino|2022-10-21|2022-10-26|5|Superior|6635.97|1.0|Viagens|Sim|Casado(a)
+2022-11-12|Dr. Marcelo|Clínico geral|Acidente de trabalho|480|Ana Clara Costa|1988-08-19|Rio Grande do Sul|Feminino|2022-11-10|2022-11-21|11|Fundamental|7575.5|3.0|Esportes|Sim|Solteiro(a)
+2022-11-12|Dr. Eduardo|Ortopedista|Acidente de trabalho|175|Júlia Carvalho|1989-01-03|Tocantins|Feminino|2022-11-05|2022-12-01|26|Médio|1918.99|0.0|Música|Sim|Solteiro(a)
+2022-11-12|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|219|Julia da Paz|1981-10-05|Espírito Santo|Feminino|2022-11-09|2022-11-17|8|Superior|5428.04|1.0|Música|Sim|Viúvo(a)
+2022-11-12|Dr. Marcos|Traumatologista|Acidente de trajeto|862|Ryan Rezende|1999-01-30|Tocantins|Masculino|2022-10-28|2022-11-13|16|Superior|7524.63|0.0|Viagens|Sim|Divorciado(a)

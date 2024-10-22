@@ -1,0 +1,5 @@
+url ; preco_alvo
+https://produto.mercadolivre.com.br/MLB-1819810336-automatizaco-de-processos-com-rpa-_JM#polycard_client=storefronts&type=item&tracking_id=883bb066-f7df-4b07-b9c7-17e223e14c88&source=eshops;120
+https://www.mercadolivre.com.br/data-science-para-negocios/p/MLB22819951#polycard_client=storefronts&type=product&tracking_id=a1e2d65b-6361-40a1-8ab3-89357f43c6f2&source=eshops&wid=MLB3315351201&sid=storefronts ;79,90
+https://www.mercadolivre.com.br/storytelling-com-dados-edico-colorida/p/MLB19783940#polycard_client=storefronts&type=product&tracking_id=b0f3ec73-4952-4c43-9638-c17da4e881ac&source=eshops&wid=MLB3677811009&sid=storefronts;72
+https://produto.mercadolivre.com.br/MLB-4616732102-livro-projetando-sistemas-de-machine-learning-processo-interativo-para-aplicacoes-prontas-para-produco-_JM#polycard_client=storefronts&type=item&tracking_id=a851836a-15ea-4590-9c2d-b0ebf81b2eae&source=eshops;65.99

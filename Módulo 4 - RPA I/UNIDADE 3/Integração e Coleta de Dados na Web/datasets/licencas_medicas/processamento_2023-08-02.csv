@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-02|Dr. Rodrigo|Ortopedista|Comum|559|Ana Luiza Moreira|1977-09-11|Rondônia|Feminino|2023-07-26|2023-08-01|6|Médio|7498.18|0.0|Música|Não|Casado(a)
+2023-08-02|Dr. Ricardo|Traumatologista|Acidente de trajeto|561|Calebe Moraes|1987-03-07|Amazonas|Masculino|2023-07-23|2023-07-31|8|Médio|3847.84|4.0|Esportes|Sim|Divorciado(a)
+2023-08-02|Dra. Daniele|Traumatologista|Comum|922|Davi Lucas das Neves|1986-04-02|Espírito Santo|Masculino|2023-07-03|2023-07-28|25|Médio||4.0|Esportes|Não|Casado(a)

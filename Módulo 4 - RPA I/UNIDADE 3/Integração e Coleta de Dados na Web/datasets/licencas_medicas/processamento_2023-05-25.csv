@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-05-25|Dr. Rafael|Clínico geral|Acidente de trajeto|600|Luiz Miguel Ramos|1985-04-11|Alagoas|Masculino|2023-05-16|2023-05-17|1|Médio|5132.85|2.0|Artes|Não|Divorciado(a)

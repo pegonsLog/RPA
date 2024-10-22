@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-04-03|Dr. Eduardo|Ortopedista|Acidente de trabalho|883|Rodrigo Aragão|1970-10-13|Mato Grosso|Masculino|2022-03-08|2022-03-15|7|Fundamental|3653.61|3.0|Viagens|Não|Casado(a)
+2022-04-03|Dr. Marcos|Traumatologista|Comum|510|Maria Julia Ramos|1958-05-05|Amazonas|Feminino|2022-03-09|2022-03-15|6|Superior|2992.09|0.0|Viagens|Não|Viúvo(a)

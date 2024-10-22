@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-06|Dr. Lucas|Clínico geral|Enfermidade de filhos pequenos|926|Lavínia da Cruz|1955-09-16|Piauí|Feminino|2023-09-08|2023-09-27|19|Superior|3375.55|2.0|Música|Não|Divorciado(a)
+2023-10-06|Dr. Gilberto|Ginecologista obstetra|Comum|722|Laís Dias|2005-02-03|Maranhão|Feminino|2023-09-06|2023-09-19|13|Superior|4859.88|4.0|Música|Não|Viúvo(a)
+2023-10-06|Dra. Laura|Pediatra|Comum|651|Natália Gonçalves|1997-03-17|Santa Catarina|Feminino|2023-09-13|2023-10-09|26|Superior|3082.34|3.0|Leitura|Sim|Solteiro(a)

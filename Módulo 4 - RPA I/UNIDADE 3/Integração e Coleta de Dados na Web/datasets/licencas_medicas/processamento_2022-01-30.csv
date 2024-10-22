@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-01-30|Dr. Lucas|Clínico geral|Comum|423|Vitor Gabriel da Rocha|1979-10-14|Roraima|Masculino|2022-01-14|2022-01-25|11|Médio|5295.52|1.0|Artes|Sim|Casado(a)
+2022-01-30|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|502|João Miguel Farias|1982-09-08|Goiás|Masculino|2022-01-15|2022-02-01|17|Fundamental|7164.34|3.0|Viagens|Não|Casado(a)
+2022-01-30|Dr. Rodrigo|Ortopedista|Acidente de trajeto|227|Nathan Fogaça|1966-03-24|Amapá|Masculino|2022-01-09|2022-01-28|19|Médio|8471.13|2.0|Artes|Não|Solteiro(a)
+2022-01-30|Dra. Carolina|Pediatra|Enfermidade de filhos pequenos|507|Theo Nascimento|1999-03-29|Acre|Masculino|2022-01-04|2022-02-02|29|Médio|8271.69|1.0|Música|Sim|Divorciado(a)

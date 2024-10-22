@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-27|Dr. Rodrigo|Ortopedista|Acidente de trabalho|770|Kevin da Paz|2002-02-18|Pará|Masculino|2022-05-05|2022-05-26|21|Médio|7061.19|2.0|Esportes|Sim|Viúvo(a)

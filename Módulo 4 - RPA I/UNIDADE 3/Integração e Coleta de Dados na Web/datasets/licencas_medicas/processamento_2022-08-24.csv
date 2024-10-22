@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-08-24|Dr. Irineu|Ginecologista obstetra|Maternidade|360|Milena Araújo|1961-02-01|Distrito Federal|Feminino|2022-08-16|2022-09-05|20|Fundamental|3235.96|2.0|Esportes|Sim|Casado(a)
+2022-08-24|Dr. Rodrigo|Ortopedista|Acidente de trabalho|306|Mariana Gonçalves|2002-10-19|Rio de Janeiro|Feminino|2022-08-22|2022-09-05|14|Médio|4632.59|0.0|Artes|Não|Solteiro(a)
+2022-08-24|Dr. André|Traumatologista|Acidente de trajeto|640|Theo Ribeiro|1972-12-02|Acre|Masculino|2022-08-14|2022-08-26|12|Fundamental|3402.26|3.0|Esportes|Sim|Solteiro(a)

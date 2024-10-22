@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2024-01-02|Dr. Pedro|Clínico geral|Enfermidade de filhos pequenos|968|Isabelly Almeida|1976-09-13|Pernambuco|Feminino|2023-12-17|2023-12-31|14|Médio|6143.05|1.0|Música|Não|Casado(a)
+2024-01-02|Dr. Irineu|Ginecologista obstetra|Maternidade|40|Carolina Silva|1978-10-09|Mato Grosso|Feminino|2023-12-03|2023-12-22|19|Médio|8416.87|0.0|Música|Não|Casado(a)
+2024-01-02|Dra. Vanessa|Pediatra|Comum|49|Nina Silveira|1966-07-01|Ceará|Feminino|2023-12-11|2024-01-06|26|Superior|4375.5|3.0|Esportes|Sim|Divorciado(a)

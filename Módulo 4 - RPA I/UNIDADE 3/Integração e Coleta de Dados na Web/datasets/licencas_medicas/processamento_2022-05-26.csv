@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-26|Dr. Rafael|Clínico geral|Acidente de trabalho|516|Antônio Cardoso|1969-06-30|Amapá|Masculino|2022-05-12|2022-06-08|27|Médio|1748.13|1.0|Viagens|Não|Viúvo(a)

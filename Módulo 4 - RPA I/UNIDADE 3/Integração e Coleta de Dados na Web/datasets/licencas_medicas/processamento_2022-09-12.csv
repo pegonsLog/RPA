@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-12|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|283|João Guilherme Azevedo|1961-07-07|Goiás|Masculino|2022-09-05|2022-09-29|24|Superior|3944.77|1.0|Esportes|Não|Viúvo(a)
+2022-09-12|Dr. Rodrigo|Ortopedista|Enfermidade de filhos pequenos|781|Bianca Duarte|1962-11-30|São Paulo|Feminino|2022-09-09|2022-09-17|8|Superior|3396.22|1.0|Viagens|Sim|Viúvo(a)
+2022-09-12|Dra. Daniele|Traumatologista|Acidente de trabalho|336|Levi Fernandes|1968-01-05|Rio de Janeiro|Masculino|2022-08-25|2022-09-10|16|Fundamental|9115.52|1.0|Música|Sim|Casado(a)

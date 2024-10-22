@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-05-28|Dr. Rafael|Clínico geral|Enfermidade de filhos pequenos|582|Lucas Gabriel da Rocha|1966-06-17|Amazonas|Masculino|2022-05-11|2022-06-07|27|Médio|2488.81|3.0|Esportes|Não|Divorciado(a)
+2022-05-28|Dra. Fernanda|Ginecologista obstetra|Maternidade|711|Rafaela Pires|1962-08-05|Rio de Janeiro|Feminino|2022-04-28|2022-05-09|11|Fundamental|1383.84|4.0|Artes|Sim|Viúvo(a)
+2022-05-28|Dr. Eduardo|Ortopedista|Enfermidade de filhos pequenos|819|Catarina Silveira|1990-11-24|Rio Grande do Norte|Feminino|2022-05-08|2022-05-13|5|Superior|1142.15|2.0|Música|Não|Divorciado(a)
+2022-05-28|Dra. Laura|Pediatra|Enfermidade de filhos pequenos|916|Augusto Correia|1978-04-05|Pará|Masculino|2022-05-02|2022-05-14|12|Fundamental|9850.61|2.0|Esportes|Não|Solteiro(a)

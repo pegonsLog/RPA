@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-11|Dr. Pedro|Clínico geral|Comum|176|Henrique Pereira|1986-09-09|Pará|Masculino|2023-02-14|2023-02-23|9|Superior|3888.23|1.0|Artes|Não|Divorciado(a)
+2023-03-11|Dr. Rafael|Clínico geral|Acidente de trabalho|619|Lorena Viana|1974-01-25|Sergipe|Feminino|2023-02-27|2023-03-28|29|Fundamental|3004.22|2.0|Esportes|Não|Divorciado(a)
+2023-03-11|Dr. Eduardo|Ortopedista|Acidente de trajeto|542|Cecília Ramos|1968-05-29|Rio de Janeiro|Feminino|2023-02-24|2023-03-24|28|Fundamental|5615.02|2.0|Viagens|Sim|Solteiro(a)
+2023-03-11|Dr. Felipe|Ortopedista|Enfermidade de filhos pequenos|675|Maria Nogueira|1978-01-27|Tocantins|Feminino|2023-03-05|2023-03-23|18|Superior|2432.54|3.0|Viagens|Não|Solteiro(a)

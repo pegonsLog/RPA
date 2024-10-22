@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-20|Dra. Juliana|Ginecologista obstetra|Comum|623|Elisa Lima|1965-01-30|Rio Grande do Sul|Feminino|2023-12-14|2024-01-02|19|Superior|7230.1|0.0|Música|Não|Solteiro(a)
+2023-12-20|Dr. Felipe|Ortopedista|Enfermidade de filhos pequenos|643|Maitê Souza|1965-11-02|Maranhão|Feminino|2023-12-17|2024-01-11|25|Médio|5381.81|2.0|Viagens|Não|Solteiro(a)
+2023-12-20|Dr. Ricardo|Traumatologista|Acidente de trajeto|992|Caio da Cruz|1978-04-28|Piauí|Masculino|2023-12-10|2023-12-28|18|Médio|5411.13|0.0|Artes|Sim|Divorciado(a)

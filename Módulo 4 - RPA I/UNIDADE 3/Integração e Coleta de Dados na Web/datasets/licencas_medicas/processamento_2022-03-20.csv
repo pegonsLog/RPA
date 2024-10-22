@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-03-20|Dr. Lucas|Clínico geral|Acidente de trabalho|264|Luiza Rezende|1958-03-13|Santa Catarina|Feminino|2022-03-16|2022-04-08|23|Fundamental|5490.78|0.0|Leitura|Não|Viúvo(a)
+2022-03-20|Dr. Gustavo|Clínico geral|Comum|369|Francisco Correia|1999-11-12|São Paulo|Masculino|2022-03-20|2022-04-14|25|Superior|3581.06|1.0|Viagens|Não|Viúvo(a)

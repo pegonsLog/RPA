@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-28|Dr. Rafael|Clínico geral|Enfermidade de filhos pequenos|33|Luiz Gustavo Pereira|1993-02-26|Minas Gerais|Masculino|2023-12-23|2024-01-17|25|Superior|5577.86|3.0|Esportes|Sim|Viúvo(a)
+2023-12-28|Dra. Fernanda|Ginecologista obstetra|Comum|255|Ana Beatriz Martins|1990-04-12|Distrito Federal|Feminino|2023-11-28|2023-12-24|26|Fundamental|6761.62||Artes|Sim|Viúvo(a)
+2023-12-28|Dr. Ramos|Ortopedista|Comum|86|Cecília Cardoso|1988-03-30|Rio de Janeiro|Feminino|2023-12-03|2023-12-21|18|Médio|5026.58|3.0|Música|Não|Viúvo(a)

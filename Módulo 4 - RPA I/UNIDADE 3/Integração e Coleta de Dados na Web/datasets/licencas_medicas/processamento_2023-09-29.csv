@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-09-29|Dr. Gustavo|Clínico geral|Enfermidade de filhos pequenos|102|Sarah Teixeira|1987-09-24|Tocantins|Feminino|2023-09-02|2023-09-26|24|Médio|4330.38|2.0|Esportes|Sim|Casado(a)
+2023-09-29|Dr. Lucas|Clínico geral|Enfermidade de filhos pequenos|366|Guilherme Pereira|1970-12-09|Alagoas|Masculino|2023-09-04|2023-09-27|23|Fundamental|8607.98|4.0|Viagens|Não|Casado(a)
+2023-09-29|Dra. Fernanda|Ginecologista obstetra|Comum|376|Eduarda Teixeira|1987-01-10|Mato Grosso do Sul|Feminino|2023-09-27|2023-09-30|3|Fundamental|7115.8|0.0|Viagens|Sim|Casado(a)
+2023-09-29|Dra. Ana|Ginecologista obstetra|Comum|468|Luna Souza|1963-02-27|Santa Catarina|Feminino|2023-09-18|2023-09-28|10|Fundamental|2181.53|3.0|Artes|Não|Casado(a)
+2023-09-29|Dr. Eduardo|Ortopedista|Acidente de trajeto|944|Pedro Miguel Lima|2003-01-26|Pará|Masculino|2023-09-09|2023-10-06|27|Fundamental|5868.56|1.0|Música|Não|Viúvo(a)

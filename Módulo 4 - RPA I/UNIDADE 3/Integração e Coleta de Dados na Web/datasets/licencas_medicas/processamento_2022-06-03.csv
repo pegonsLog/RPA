@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-06-03|Dr. Irineu|Ginecologista obstetra|Comum|321|Milena Cunha|1959-08-11|Rio de Janeiro|Feminino|2022-05-18|2022-05-26|8|Fundamental|5081.62|2.0|Leitura|Sim|Viúvo(a)
+2022-06-03|Dr. Thiago|Ortopedista|Enfermidade de filhos pequenos|52|Pietro Novaes|1969-08-24|Amazonas|Masculino|2022-06-03|2022-06-18|15|Médio|5782.59|0.0|Viagens|Sim|Viúvo(a)
+2022-06-03|Dr. Ramos|Ortopedista|Comum|350|Rafael Campos|1993-06-21|Roraima|Masculino|2022-05-05|2022-05-25|20|Superior|7825.61|1.0|Leitura|Sim|Viúvo(a)
+2022-06-03|Dr. Ramos|Ortopedista|Acidente de trabalho|403|Pietro Almeida|1978-12-02|Paraíba|Masculino|2022-05-22|2022-06-15|24|Fundamental|7010.51|3.0|Esportes|Sim|Viúvo(a)
+2022-06-03|Dr. Ricardo|Traumatologista|Enfermidade de filhos pequenos|880|Maria Clara Moreira|1976-02-20|Alagoas|Feminino|2022-05-27|2022-06-24|28|Fundamental|2990.54|2.0|Artes|Não|Solteiro(a)

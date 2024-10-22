@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-01-18|Dra. Vanessa|Pediatra|Comum|153|Lucas Cavalcanti|1985-02-12|Minas Gerais|Masculino|2022-12-21|2022-12-25|4|Superior|4444.87|0.0|Esportes|Sim|Casado(a)
+2023-01-18|Dr. Vinicius|Traumatologista|Acidente de trajeto|98|João Guilherme Melo|1995-01-04|Alagoas|Masculino|2022-12-21|2023-01-04|14|Superior|3121.09|2.0|Esportes|Não|Divorciado(a)
+2023-01-18|Dr. Ricardo|Traumatologista|Comum|904|Matheus Viana|1985-02-12|Mato Grosso do Sul|Masculino|2023-01-07|2023-02-03|27|Fundamental|1111.03|1.0|Esportes|Não|Solteiro(a)

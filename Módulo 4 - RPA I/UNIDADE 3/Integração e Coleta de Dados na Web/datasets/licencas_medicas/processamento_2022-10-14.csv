@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-10-14|Dr. Gustavo|Clínico geral|Acidente de trabalho|933|Arthur da Luz|1987-03-29|Goiás|Masculino|2022-10-07|2022-10-08|1|Superior|2197.72|4.0|Artes|Não|Divorciado(a)
+2022-10-14|Dr. André|Traumatologista|Acidente de trabalho|266|Thiago Barbosa|1959-09-24|Rio Grande do Norte|Masculino|2022-10-03|2022-10-04|1|Fundamental|4549.24|3.0|Música|Não|Casado(a)

@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-05-30|Dr. Eduardo|Ortopedista|Acidente de trabalho|426|Luiz Miguel da Costa|1953-03-30|Espírito Santo|Masculino|2023-05-24|2023-05-26|2|Superior|6712.56|4.0|Leitura|Sim|Solteiro(a)
+2023-05-30|Dr. Vinicius|Traumatologista|Enfermidade de filhos pequenos|429|Thales da Rosa|1974-12-26|Rio Grande do Sul|Masculino|2023-05-02|2023-05-11|9|Fundamental|2064.34|2.0|Música|Não|Viúvo(a)

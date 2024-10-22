@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-03-14|Dr. Eduardo|Ortopedista|Acidente de trajeto|313|Heitor Almeida|2005-03-03|Pará|Masculino|2023-03-12|2023-03-28|16|Superior|9984.63|1.0|Viagens|Não|Solteiro(a)
+2023-03-14|Dr. Roberto|Pediatra|Comum|602|Carolina Souza|1966-01-09|Roraima|Feminino|2023-02-22|2023-03-04|10|Superior|4288.93|1.0|Esportes|Sim|Divorciado(a)
+2023-03-14|Dr. Vinicius|Traumatologista|Comum|719|Luiz Otávio Peixoto|1962-01-20|Paraná|Masculino|2023-03-11|2023-03-13|2|Fundamental|6144.61|4.0|Leitura|Sim|Divorciado(a)
+2023-03-14|Dr. Roberto|Pediatra|Comum|602|Carolina Souza|1966-01-09|Roraima|Feminino|2023-02-22|2023-03-04|10|Superior|4288.93|1.0|Esportes|Sim|Divorciado(a)
+2023-03-14|Dr. Roberto|Pediatra|Comum|602|Carolina Souza|1966-01-09|Roraima|Feminino|2023-02-22|2023-03-04|10|Superior|4288.93|1.0|Esportes|Sim|Divorciado(a)

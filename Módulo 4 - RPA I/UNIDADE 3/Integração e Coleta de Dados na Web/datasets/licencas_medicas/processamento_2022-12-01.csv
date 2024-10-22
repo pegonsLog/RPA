@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-12-01|Dr. Ramos|Ortopedista|Acidente de trajeto|8|Ana Beatriz Rocha|2000-03-24|São Paulo|Feminino|2022-11-10|2022-12-05|25|Fundamental|7808.99|1.0|Leitura|Não|Divorciado(a)
+2022-12-01|Dra. Laura|Pediatra|Enfermidade de filhos pequenos|865|Vitor Hugo da Cruz|2001-04-24|Amazonas|Masculino|2022-11-10|2022-11-12|2|Fundamental|7404.46|2.0|Leitura|Não|Solteiro(a)

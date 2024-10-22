@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-03|Dra. Fernanda|Ginecologista obstetra|Maternidade|608|Ana Lívia Dias|1980-04-17|Rio Grande do Norte|Feminino|2023-11-21|2023-12-09|18|Superior|4242.25|0.0|Música|Sim|Solteiro(a)
+2023-12-03|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|606|Yasmin Cardoso|1955-06-13|Mato Grosso do Sul|Feminino|2023-11-03|2023-11-14|11|Fundamental|6975.04|3.0|Esportes|Não|Divorciado(a)
+2023-12-03|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|606|Yasmin Cardoso|1955-06-13|Mato Grosso do Sul|Feminino|2023-11-03|2023-11-14|11|Fundamental|6975.04|3.0|Esportes|Não|Divorciado(a)
+2023-12-03|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|606|Yasmin Cardoso|1955-06-13|Mato Grosso do Sul|Feminino|2023-11-03|2023-11-14|11|Fundamental|6975.04|3.0|Esportes|Não|Divorciado(a)

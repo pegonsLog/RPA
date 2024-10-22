@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-01|Dr. Lucas|Clínico geral|Acidente de trajeto|490|Letícia Souza|1976-02-20|Mato Grosso|Feminino|2023-07-21|2023-07-23|2|Médio|1617.91|4.0|Viagens|Sim|Divorciado(a)
+2023-08-01|Dra. Fernanda|Ginecologista obstetra|Comum|204|Júlia Silva|1989-05-05|Maranhão|Feminino|2023-07-08|2023-07-16|8|Superior|2891.19|2.0|Música|Não|Solteiro(a)
+2023-08-01|Dr. Gilberto|Ginecologista obstetra|Maternidade|746|Vitória Peixoto|1962-02-16|Distrito Federal|Feminino|2023-07-27|2023-08-17|21|Médio|4637.4|2.0|Leitura|Não|Viúvo(a)
+2023-08-01|Dr. Irineu|Ginecologista obstetra|Maternidade|854|Lorena Alves|1955-03-15|Pernambuco|Feminino|2023-07-22|2023-08-02|11|Médio|3940.73|0.0|Leitura|Não|Solteiro(a)

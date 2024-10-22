@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-23|Dr. Ramos|Ortopedista|Acidente de trabalho|546|Rebeca Peixoto|1986-04-01|Ceará|Feminino|2023-10-04|2023-10-10|6|Fundamental|5426.53|3.0|Artes|Sim|Divorciado(a)
+2023-10-23|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|570|Ana Vitória Melo|1957-09-07|Roraima|Feminino|2023-10-23|2023-11-16|24|Superior|3456.6|4.0|Leitura|Sim|Casado(a)
+2023-10-23|Dr. Marcos|Traumatologista|Acidente de trajeto|377|Joaquim Peixoto|1952-07-18|Rondônia|Masculino|2023-10-13|2023-10-14|1|Superior|7297.32|4.0|Leitura|Não|Divorciado(a)
+2023-10-23|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|570|Ana Vitória Melo|1957-09-07|Roraima|Feminino|2023-10-23|2023-11-16|24|Superior|3456.6|4.0|Leitura|Sim|Casado(a)

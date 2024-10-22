@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-09-24|Dr. Thiago|Ortopedista|Enfermidade de filhos pequenos|463|Gabriela Azevedo|1989-01-14|Distrito Federal|Feminino|2023-08-27|2023-09-03|7|Médio|5750.6|3.0|Música|Sim|Viúvo(a)
+2023-09-24|Dr. Felipe|Ortopedista|Acidente de trabalho|514|Milena Melo|1976-01-10|São Paulo|Feminino|2023-08-26|2023-09-22|27|Fundamental|4152.03|3.0|Artes|Não|Divorciado(a)
+2023-09-24|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|796|João Vitor Farias|1997-10-08|Mato Grosso|Masculino|2023-09-23|2023-09-28|5|Médio|9792.56|0.0|Esportes|Não|Divorciado(a)
+2023-09-24|Dr. André|Traumatologista|Comum|772|Calebe Nogueira|1989-12-15|Mato Grosso do Sul|Masculino|2023-09-13|2023-09-22|9|Fundamental|7780.31|1.0|Artes|Sim|Casado(a)
+2023-09-24|Dr. André|Traumatologista|Comum|772|Calebe Nogueira|1989-12-15|Mato Grosso do Sul|Masculino|2023-09-13|2023-09-22|9|Fundamental|7780.31|1.0|Artes|Sim|Casado(a)

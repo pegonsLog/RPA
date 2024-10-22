@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-03|Dr. Pedro|Clínico geral|Acidente de trajeto|872|Manuela Costa|1961-03-24|Minas Gerais|Feminino|2022-08-16|2022-09-07|22|Fundamental|5363.94|2.0|Música|Sim|Solteiro(a)
+2022-09-03|Dra. Vanessa|Pediatra|Enfermidade de filhos pequenos|270|Benjamin da Paz|1975-02-09|Mato Grosso|Masculino|2022-08-15|2022-08-25|10|Superior|4596.91|2.0|Música|Sim|Solteiro(a)
+2022-09-03|Dr. Ricardo|Traumatologista|Acidente de trajeto|720|Bruna Nascimento|1972-09-13|Rio Grande do Sul|Feminino|2022-08-13|2022-08-17|4|Fundamental|8436.16|3.0|Leitura|Sim|Viúvo(a)

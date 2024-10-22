@@ -1,0 +1,2 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-06-20|Dr. Pedro|Clínico geral|Comum|577|Luiz Felipe da Mata|2004-12-23|Minas Gerais|Masculino|2022-06-18|2022-06-29|11|Médio|7826.41|1.0|Esportes|Sim|Casado(a)

@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-07|Dr. Marcelo|Clínico geral|Acidente de trajeto|994|Kaique Monteiro|1981-09-08|Amapá|Masculino|2023-07-18|2023-07-19|1|Superior|8668.85|2.0|Esportes|Sim|Casado(a)
+2023-08-07|Dr. Ramos|Ortopedista|Comum|389|Bárbara Jesus|1972-08-04|Espírito Santo|Feminino|2023-07-10|2023-07-28|18|Fundamental|6949.87|3.0|Esportes|Não|Casado(a)
+2023-08-07|Dr. Rodrigo|Ortopedista|Comum|469|Ian Ribeiro|2001-04-19|Sergipe|Masculino|2023-07-11|2023-07-12|1|Superior|7507.81|4.0|Leitura|Sim|Casado(a)

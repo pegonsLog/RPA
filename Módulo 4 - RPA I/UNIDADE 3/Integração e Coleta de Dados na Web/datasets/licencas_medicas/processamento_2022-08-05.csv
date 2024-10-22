@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-08-05|Dr. Gustavo|Clínico geral|Acidente de trabalho|131|Mirella Costela|1958-07-18|Minas Gerais|Feminino|2022-07-27|2022-07-31|4|Médio|6248.05|0.0|Esportes|Não|Solteiro(a)
+2022-08-05|Dr. Ramos|Ortopedista|Comum|265|Enrico Duarte|1955-02-25|Minas Gerais|Masculino|2022-08-03|2022-08-26|23|Fundamental|1879.32|0.0|Música|Não|Viúvo(a)

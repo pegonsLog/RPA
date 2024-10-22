@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-06-10|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|580|Joana das Neves|1982-02-14|Maranhão|Feminino|2023-05-11|2023-05-15|4|Fundamental|8779.52|0.0|Viagens|Não|Viúvo(a)
+2023-06-10|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|996|Rebeca Barros|1992-12-02|Goiás|Feminino|2023-05-16|2023-05-24|8|Fundamental|9648.35|3.0|Viagens|Sim|Divorciado(a)
+2023-06-10|Dr. Roberto|Pediatra|Enfermidade de filhos pequenos|580|Joana das Neves|1982-02-14|Maranhão|Feminino|2023-05-11|2023-05-15|4|Fundamental|8779.52|0.0|Viagens|Não|Viúvo(a)

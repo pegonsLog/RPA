@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-10-14|Dr. Gustavo|Clínico geral|Comum|63|Levi Correia|1969-05-15|Rio Grande do Sul|Masculino|2023-09-25|2023-10-17|22|Superior|7767.97|4.0|Música|Sim|Casado(a)
+2023-10-14|Dr. Rafael|Clínico geral|Acidente de trajeto|148|Valentina Correia|1983-09-28|Pernambuco|Feminino|2023-10-02|2023-10-12|10|Superior|7318.47|3.0|Leitura|Não|Solteiro(a)
+2023-10-14|Dr. Thiago|Ortopedista|Acidente de trajeto|367|Vitória Costela|1997-12-05|Paraná|Feminino|2023-09-16|2023-10-06|20|Superior|4517.7|0.0|Viagens|Sim|Viúvo(a)

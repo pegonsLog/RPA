@@ -1,0 +1,5 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-08-16|Dr. Lucas|Clínico geral|Comum|137|Rafael Oliveira|1956-05-07|Espírito Santo|Masculino|2022-07-21|2022-08-11|21|Médio|2297.63|3.0|Viagens|Sim|Divorciado(a)
+2022-08-16|Dr. Gustavo|Clínico geral|Acidente de trabalho|150|Benjamin Ribeiro|1993-05-03|Amapá|Masculino|2022-08-03|2022-08-20|17|Médio|1609.62|3.0|Música|Não|Divorciado(a)
+2022-08-16|Dr. Pedro|Clínico geral|Comum|790|Enrico Fogaça|1953-01-25|Rio Grande do Sul|Masculino|2022-08-08|2022-08-19|11|Superior|6795.69||Viagens|Não|Viúvo(a)
+2022-08-16|Dr. Marcos|Traumatologista|Enfermidade de filhos pequenos|32|Bianca Carvalho|1958-03-04|Acre|Feminino|2022-07-17|2022-08-04|18|Fundamental|3242.45|0.0|Artes|Não|Casado(a)

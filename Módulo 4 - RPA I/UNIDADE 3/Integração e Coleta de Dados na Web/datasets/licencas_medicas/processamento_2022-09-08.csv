@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-09-08|Dr. Rafael|Clínico geral|Acidente de trajeto|55|Bárbara Castro|1975-04-22|Rio de Janeiro|Feminino|2022-08-22|2022-09-07|16|Fundamental|6518.58|1.0|Viagens|Não|Casado(a)
+2022-09-08|Dr. Lucas|Clínico geral|Comum|58|Vitor Ramos|1979-11-07|Amapá|Masculino|2022-08-25|2022-08-28|3|Fundamental|6263.0|0.0|Música|Sim|Solteiro(a)
+2022-09-08|Dr. Pedro|Clínico geral|Acidente de trajeto|920|Pedro Henrique da Rocha|1965-10-05|Rondônia|Masculino|2022-08-21|2022-09-18|28|Fundamental|4429.86|4.0|Viagens|Sim|Viúvo(a)

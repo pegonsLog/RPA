@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-07-26|Dra. Juliana|Ginecologista obstetra|Comum|280|Cecília Carvalho|1964-12-10|Pernambuco|Feminino|2022-07-07|2022-07-13|6|Médio|4916.56|0.0|Viagens|Não|Viúvo(a)
+2022-07-26|Dra. Vanessa|Pediatra|Comum|116|Eduarda Gonçalves|1997-03-29|Ceará|Feminino|2022-07-22|2022-08-20|29|Superior|9815.03|3.0|Artes|Sim|Viúvo(a)

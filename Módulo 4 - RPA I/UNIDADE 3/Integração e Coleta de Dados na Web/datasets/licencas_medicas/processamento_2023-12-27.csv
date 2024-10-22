@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-12-27|Dr. Pedro|Clínico geral|Acidente de trajeto|173|Natália Farias|1986-01-19|Maranhão|Feminino|2023-12-22|2024-01-20|29|Fundamental|7114.0|1.0|Artes|Não|Casado(a)
+2023-12-27|Dr. Pedro|Clínico geral|Acidente de trabalho|717|Gabriel Cunha|1987-07-05|Minas Gerais|Masculino|2023-12-26|2023-12-28|2|Fundamental|2480.79|1.0|Esportes|Não|Divorciado(a)
+2023-12-27|Dr. Lucas|Clínico geral|Comum|988|Mariana Carvalho|1980-01-10|Acre|Feminino|2023-12-01|2023-12-21|20|Fundamental|6702.03|0.0|Viagens|Sim|Solteiro(a)

@@ -1,0 +1,4 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-11-20|Dr. Pedro|Clínico geral|Acidente de trajeto|320|Sophia da Mota|1972-12-10|Minas Gerais|Feminino|2022-10-21|2022-10-27|6|Fundamental|2839.1|4.0|Música|Não|Casado(a)
+2022-11-20|Dr. Pedro|Clínico geral|Comum|448|Caio Porto|1968-06-12|Ceará|Masculino|2022-11-10|2022-11-25|15|Superior|9139.42|1.0|Leitura|Não|Divorciado(a)
+2022-11-20|Dr. Lucas|Clínico geral|Comum|461|Manuela Correia|1970-12-20|São Paulo|Feminino|2022-10-21|2022-11-12|22|Fundamental|6802.85|1.0|Leitura|Sim|Solteiro(a)

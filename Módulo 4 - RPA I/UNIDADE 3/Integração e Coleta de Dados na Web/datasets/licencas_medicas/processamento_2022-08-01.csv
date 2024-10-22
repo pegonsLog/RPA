@@ -1,0 +1,7 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2022-08-01|Dr. Gustavo|Clínico geral|Acidente de trajeto|271|Luiz Fernando Ferreira|1952-09-29|Sergipe|Masculino|2022-07-11|2022-07-13|2|Superior|1273.19|1.0|Esportes|Sim|Solteiro(a)
+2022-08-01|Dr. Gilberto|Ginecologista obstetra|Comum|431|Lívia Silveira|1968-08-08|Tocantins|Feminino|2022-08-01|2022-08-10|9|Superior|4892.68|3.0|Viagens|Não|Solteiro(a)
+2022-08-01|Dra. Vanessa|Pediatra|Comum|598|João Miguel Freitas|1959-01-14|São Paulo|Masculino|2022-07-06|2022-07-11|5|Médio||0.0|Leitura|Não|Solteiro(a)
+2022-08-01|Dr. Lessa|Pediatra|Enfermidade de filhos pequenos|946|Mariane Viana|1958-05-05|Acre|Feminino|2022-07-02|2022-07-09|7|Médio|2426.46|1.0|Esportes|Não|Solteiro(a)
+2022-08-01|Dra. Vanessa|Pediatra|Comum|598|João Miguel Freitas|1959-01-14|São Paulo|Masculino|2022-07-06|2022-07-11|5|Médio||0.0|Leitura|Não|Solteiro(a)
+2022-08-01|Dra. Vanessa|Pediatra|Comum|598|João Miguel Freitas|1959-01-14|São Paulo|Masculino|2022-07-06|2022-07-11|5|Médio||0.0|Leitura|Não|Solteiro(a)

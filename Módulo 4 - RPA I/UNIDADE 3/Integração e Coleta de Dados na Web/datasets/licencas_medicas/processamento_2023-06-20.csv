@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-06-20|Dr. Thiago|Ortopedista|Acidente de trajeto|939|Clara Jesus|1997-11-11|Piauí|Feminino|2023-05-23|2023-05-27|4|Médio|7099.33|1.0|Esportes|Não|Solteiro(a)
+2023-06-20|Dra. Laura|Pediatra|Enfermidade de filhos pequenos|260|Amanda Ferreira|1982-06-25|Piauí|Feminino|2023-05-22|2023-06-15|24|Superior|9102.41|2.0|Música|Sim|Divorciado(a)
+2023-06-20|Dra. Laura|Pediatra|Comum|394|Enzo Silveira|1957-01-21|Maranhão|Masculino|2023-05-25|2023-06-03|9|Médio|3783.62|3.0|Viagens|Não|Divorciado(a)
+2023-06-20|Dr. Roberto|Pediatra|Comum|936|Olivia Alves|1953-10-17|Espírito Santo|Feminino|2023-06-06|2023-06-13|7|Superior|7679.95|2.0|Leitura|Sim|Viúvo(a)
+2023-06-20|Dr. Ricardo|Traumatologista|Acidente de trabalho|979|Caio da Paz|1956-02-01|Roraima|Masculino|2023-05-22|2023-06-15|24|Médio|9646.58|3.0|Leitura|Sim|Solteiro(a)

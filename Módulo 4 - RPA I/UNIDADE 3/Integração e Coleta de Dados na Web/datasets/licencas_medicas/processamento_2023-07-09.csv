@@ -1,0 +1,3 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-07-09|Dr. Gustavo|Clínico geral|Acidente de trabalho|532|Ana Clara Azevedo|1978-11-23|Distrito Federal|Feminino|2023-06-21|2023-06-23|2|Fundamental|3875.31|4.0|Esportes|Sim|Viúvo(a)
+2023-07-09|Dr. Ramos|Ortopedista|Acidente de trabalho|685|Joana Lopes|1976-02-22|Bahia|Feminino|2023-06-22|2023-06-29|7|Superior||0.0|Esportes|Sim|Casado(a)

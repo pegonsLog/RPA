@@ -1,0 +1,6 @@
+data_processamento|nome_medico|especialidade|motivo_licenca|id_colaborador|nome_colaborador|data_nascimento|estado_colaborador|sexo_colaborador|inicio_licenca|fim_licenca|duracao_licenca|escolaridade|salario|qtd_filhos|hobbie|possui_pet|estado_civil
+2023-08-29|Dr. Irineu|Ginecologista obstetra|Comum|792|Maria Vitória Vieira|1984-05-10|Rio Grande do Norte|Feminino|2023-08-23|2023-09-02|10|Médio|6923.24|4.0|Viagens|Não|Casado(a)
+2023-08-29|Dr. Thiago|Ortopedista|Acidente de trabalho|954|Alice Moreira|1974-03-20|Amapá|Feminino|2023-08-04|2023-08-24|20|Fundamental|1862.98|2.0|Viagens|Não|Viúvo(a)
+2023-08-29|Dr. Vinicius|Traumatologista|Enfermidade de filhos pequenos|277|Cauê Rodrigues|1996-06-07|Paraná|Masculino|2023-08-06|2023-08-22|16|Fundamental|5453.24|1.0|Leitura|Não|Viúvo(a)
+2023-08-29|Dr. Marcos|Traumatologista|Acidente de trabalho|801|Maria Vitória Rocha|1993-11-10|Rio Grande do Sul|Feminino|2023-08-09|2023-08-14|5|Fundamental|1929.66|0.0|Leitura|Não|Viúvo(a)
+2023-08-29|Dr. Marcos|Traumatologista|Acidente de trabalho|801|Maria Vitória Rocha|1993-11-10|Rio Grande do Sul|Feminino|2023-08-09|2023-08-14|5|Fundamental|1929.66|0.0|Leitura|Não|Viúvo(a)
